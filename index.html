@@ -1,11 +1,517 @@
+<!DOCTYPE html>
 <html>
-  <body>
-    <h1>This is a heading that I wrote</h1>
-    <h2>lowkey coding right now :0</h2>
-    <a href="https://nerdtown.cc/user/Trust_A_Tree"> this is my site</a>
-    <img src=
-  </body>
+<head>
+    <meta charset="UTF-8">
+    <title>Blog Viewer</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+        
+        :root {
+            --font-family: 'Special Elite', cursive;
+            --font-size: 18px;
+            --line-height: 1.8;
+            --bg-color: #FFF6DE;
+            --text-color: #2d2d2d;
+            --link-color: #0366d6;
+            --heading-color: #1a1a1a;
+            --code-bg: #f6f8fa;
+            --blockquote-border: #dfe2e5;
+            --blockquote-bg: #f8f9fa;
+            --max-width: 800px;
+            --padding: 40px;
+            --border-radius: 8px;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: var(--font-family);
+            font-size: var(--font-size);
+            line-height: var(--line-height);
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            padding: 20px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: var(--max-width);
+            margin: 0 auto;
+            padding: var(--padding);
+            background-color: var(--bg-color);
+            border-radius: var(--border-radius);
+        }
+        
+        .markdown-body {
+            font-family: var(--font-family);
+            font-size: var(--font-size);
+            line-height: var(--line-height);
+            color: var(--text-color);
+        }
+        
+        .markdown-body h1,
+        .markdown-body h2,
+        .markdown-body h3,
+        .markdown-body h4,
+        .markdown-body h5,
+        .markdown-body h6 {
+            color: var(--heading-color);
+            margin-top: 24px;
+            margin-bottom: 16px;
+            font-weight: 600;
+            line-height: 1.25;
+        }
+        
+        .markdown-body h1 { font-size: 2em; border-bottom: 1px solid #eaecef; padding-bottom: 0.3em; }
+        .markdown-body h2 { font-size: 1.5em; border-bottom: 1px solid #eaecef; padding-bottom: 0.3em; }
+        .markdown-body h3 { font-size: 1.25em; }
+        .markdown-body h4 { font-size: 1em; }
+        
+        .markdown-body p {
+            margin-top: 0;
+            margin-bottom: 16px;
+        }
+        
+        .markdown-body a {
+            color: var(--link-color);
+            text-decoration: none;
+        }
+        
+        .markdown-body a:hover {
+            text-decoration: underline;
+        }
+        
+        .markdown-body ul,
+        .markdown-body ol {
+            padding-left: 2em;
+            margin-bottom: 16px;
+        }
+        
+        .markdown-body li {
+            margin-bottom: 4px;
+        }
+        
+        .markdown-body blockquote {
+            padding: 0 1em;
+            color: #6a737d;
+            border-left: 0.25em solid var(--blockquote-border);
+            background-color: var(--blockquote-bg);
+            padding: 10px 20px;
+            margin: 16px 0;
+            border-radius: 4px;
+        }
+        
+        .markdown-body code {
+            padding: 0.2em 0.4em;
+            margin: 0;
+            font-size: 85%;
+            background-color: var(--code-bg);
+            border-radius: 3px;
+            font-family: 'Courier New', monospace;
+        }
+        
+        .markdown-body pre {
+            padding: 16px;
+            overflow: auto;
+            font-size: 85%;
+            line-height: 1.45;
+            background-color: var(--code-bg);
+            border-radius: 6px;
+            margin-bottom: 16px;
+        }
+        
+        .markdown-body pre code {
+            padding: 0;
+            background-color: transparent;
+            border-radius: 0;
+        }
+        
+        .markdown-body img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 6px;
+        }
+        
+        .markdown-body table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-bottom: 16px;
+        }
+        
+        .markdown-body table th,
+        .markdown-body table td {
+            padding: 6px 13px;
+            border: 1px solid #dfe2e5;
+        }
+        
+        .markdown-body table th {
+            font-weight: 600;
+            background-color: #f6f8fa;
+        }
+        
+        .markdown-body hr {
+            height: 0.25em;
+            padding: 0;
+            margin: 24px 0;
+            background-color: #e1e4e8;
+            border: 0;
+        }
+        
+        #loading {
+            text-align: center;
+            padding: 60px 20px;
+            font-size: 1.2em;
+            color: #666;
+        }
+        
+        #loading .spinner {
+            display: inline-block;
+            width: 40px;
+            height: 40px;
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid var(--link-color);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-bottom: 20px;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .error {
+            text-align: center;
+            padding: 60px 20px;
+            color: #d73a49;
+        }
+        
+        .error .icon {
+            font-size: 48px;
+            display: block;
+            margin-bottom: 20px;
+        }
+        
+        .blog-list {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .blog-list li {
+            padding: 12px 0;
+            border-bottom: 1px solid #eaecef;
+        }
+        
+        .blog-list li:last-child {
+            border-bottom: none;
+        }
+        
+        .blog-list a {
+            font-size: 1.2em;
+            color: var(--link-color);
+            text-decoration: none;
+            display: block;
+            transition: padding-left 0.2s;
+        }
+        
+        .blog-list a:hover {
+            padding-left: 10px;
+            text-decoration: underline;
+        }
+        
+        .back-button {
+            display: inline-block;
+            margin-bottom: 20px;
+            padding: 8px 16px;
+            background: var(--link-color);
+            color: white;
+            border-radius: 6px;
+            text-decoration: none;
+            cursor: pointer;
+            border: none;
+            font-family: var(--font-family);
+            font-size: 16px;
+            transition: opacity 0.2s;
+        }
+        
+        .back-button:hover {
+            opacity: 0.8;
+        }
+        
+        #blog-list-view, #blog-post-view {
+            display: none;
+        }
+        
+        #blog-list-view.active, #blog-post-view.active {
+            display: block;
+        }
+        
+        .admin-note {
+            position: fixed;
+            bottom: 20px;
+            left: 20px;
+            background: rgba(0,0,0,0.7);
+            color: white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-family: Arial, sans-serif;
+            opacity: 0.3;
+            transition: opacity 0.3s;
+            pointer-events: none;
+        }
+        
+        .admin-note:hover {
+            opacity: 1;
+        }
+        
+        @media (max-width: 768px) {
+            :root {
+                --padding: 20px;
+                --font-size: 16px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div id="loading">
+            <div class="spinner"></div>
+            <div>Loading blogs...</div>
+        </div>
+        
+        <div id="blog-list-view" class="active">
+            <h1>Blogs</h1>
+            <ul class="blog-list" id="blog-list"></ul>
+        </div>
+        
+        <div id="blog-post-view">
+            <button class="back-button" onclick="goBack()">← Back</button>
+            <div id="blog-content" class="markdown-body"></div>
+        </div>
+    </div>
+
+    <script>
+        let blogFolders = [];
+        let currentBlog = null;
+        
+        function formatBlogName(folderName) {
+            return folderName
+                .replace(/-/g, ' ')
+                .replace(/\b\w/g, l => l.toUpperCase());
+        }
+        
+        function discoverBlogs() {
+            const loading = document.getElementById('loading');
+            const blogList = document.getElementById('blog-list');
+            
+            fetch('blogs/')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Could not access blogs directory');
+                    }
+                    return response.text();
+                })
+                .then(html => {
+                    const parser = new DOMParser();
+                    const doc = parser.parseFromString(html, 'text/html');
+                    const links = doc.querySelectorAll('a');
+                    const folders = [];
+                    
+                    links.forEach(link => {
+                        const href = link.getAttribute('href');
+                        if (href && href.endsWith('/') && !href.startsWith('/') && href !== '../' && href !== './') {
+                            const folderName = href.slice(0, -1);
+                            folders.push(folderName);
+                        }
+                    });
+                    
+                    if (folders.length === 0) {
+                        return tryManifestFallback();
+                    }
+                    
+                    blogFolders = folders;
+                    renderBlogList();
+                    loading.style.display = 'none';
+                    setTimeout(loadFromHash, 100);
+                })
+                .catch(() => {
+                    tryManifestFallback();
+                });
+        }
+        
+        function tryManifestFallback() {
+            fetch('blogs/blogs.json')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('No blogs.json manifest found');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    blogFolders = data.blogs || [];
+                    renderBlogList();
+                    document.getElementById('loading').style.display = 'none';
+                    setTimeout(loadFromHash, 100);
+                })
+                .catch(() => {
+                    tryManualFallback();
+                });
+        }
+        
+        function tryManualFallback() {
+            const possibleBlogs = ['very-much-blog'];
+            const promises = possibleBlogs.map(blog => 
+                fetch(`blogs/${blog}/blog.md`)
+                    .then(response => {
+                        if (response.ok) {
+                            return blog;
+                        }
+                        return null;
+                    })
+                    .catch(() => null)
+            );
+            
+            Promise.all(promises)
+                .then(results => {
+                    blogFolders = results.filter(blog => blog !== null);
+                    if (blogFolders.length === 0) {
+                        blogFolders = ['example-blog-here'];
+                    }
+                    renderBlogList();
+                    document.getElementById('loading').style.display = 'none';
+                    setTimeout(loadFromHash, 100);
+                })
+                .catch(() => {
+                    blogFolders = ['example-blog-here'];
+                    renderBlogList();
+                    document.getElementById('loading').style.display = 'none';
+                    setTimeout(loadFromHash, 100);
+                });
+        }
+        
+        function renderBlogList() {
+            const blogList = document.getElementById('blog-list');
+            blogList.innerHTML = '';
+            
+            if (blogFolders.length === 0) {
+                blogList.innerHTML = '<li style="color:#999;">No blogs found. Create a "blogs" folder with subfolders containing blog.md files.</li>';
+                return;
+            }
+            
+            blogFolders.forEach(blog => {
+                const li = document.createElement('li');
+                const a = document.createElement('a');
+                const displayName = formatBlogName(blog);
+                a.textContent = displayName;
+                a.href = `#${blog}`;
+                a.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    loadBlogPost(blog);
+                });
+                li.appendChild(a);
+                blogList.appendChild(li);
+            });
+        }
+        
+        function loadBlogPost(blogSlug) {
+            currentBlog = blogSlug;
+            const blogContentView = document.getElementById('blog-post-view');
+            const blogListView = document.getElementById('blog-list-view');
+            const blogContent = document.getElementById('blog-content');
+            
+            blogListView.classList.remove('active');
+            blogListView.style.display = 'none';
+            blogContentView.classList.add('active');
+            blogContentView.style.display = 'block';
+            
+            blogContent.innerHTML = '<div style="text-align:center;padding:40px;"><div class="spinner" style="margin:0 auto;"></div><p>Loading...</p></div>';
+            
+            fetch(`blogs/${blogSlug}/blog.md`)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`Blog "${blogSlug}" not found`);
+                    }
+                    return response.text();
+                })
+                .then(markdown => {
+                    blogContent.innerHTML = marked.parse(markdown);
+                    document.title = formatBlogName(blogSlug);
+                    
+                    if (history.pushState) {
+                        history.pushState({ blog: blogSlug }, '', `#${blogSlug}`);
+                    }
+                })
+                .catch(error => {
+                    blogContent.innerHTML = `
+                        <div class="error">
+                            <span class="icon">📄</span>
+                            <h2>Could not load blog</h2>
+                            <p>${error.message}</p>
+                            <p style="font-size:14px;color:#999;margin-top:20px;">
+                                Make sure the file exists at: blogs/${blogSlug}/blog.md
+                            </p>
+                        </div>
+                    `;
+                    console.error('Error loading blog:', error);
+                });
+        }
+        
+        function goBack() {
+            const blogListView = document.getElementById('blog-list-view');
+            const blogContentView = document.getElementById('blog-post-view');
+            
+            blogContentView.classList.remove('active');
+            blogContentView.style.display = 'none';
+            blogListView.classList.add('active');
+            blogListView.style.display = 'block';
+            
+            document.title = 'Blog';
+            
+            if (history.pushState) {
+                history.pushState({}, '', window.location.pathname);
+            }
+            
+            currentBlog = null;
+        }
+        
+        function loadFromHash() {
+            const hash = window.location.hash;
+            if (hash && hash.length > 1) {
+                const blogSlug = hash.substring(1);
+                if (blogFolders.includes(blogSlug)) {
+                    loadBlogPost(blogSlug);
+                }
+            }
+        }
+        
+        window.addEventListener('popstate', function(event) {
+            if (event.state && event.state.blog) {
+                if (blogFolders.includes(event.state.blog)) {
+                    loadBlogPost(event.state.blog);
+                } else {
+                    goBack();
+                }
+            } else if (!window.location.hash || window.location.hash === '') {
+                goBack();
+            } else {
+                const hash = window.location.hash;
+                if (hash && hash.length > 1) {
+                    const blogSlug = hash.substring(1);
+                    if (blogFolders.includes(blogSlug)) {
+                        loadBlogPost(blogSlug);
+                    }
+                }
+            }
+        });
+        
+        discoverBlogs();
+    </script>
+</body>
 </html>
-
-
-just a test
