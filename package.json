@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Charl1e39/xenwriting.com.git"
+    "url": "git+https://github.com/TrustATree/xenwriting.com.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/Charl1e39/xenwriting.com/issues"
+    "url": "https://github.com/TrustATree/xenwriting.com/issues"
   },
-  "homepage": "https://github.com/Charl1e39/xenwriting.com#readme",
+  "homepage": "https://github.com/TrustATree/xenwriting.com#readme",
   "devDependencies": {
     "markdown-it-container": "^4.0.0",
     "vitepress": "^1.6.4"
