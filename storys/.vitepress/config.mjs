@@ -13,8 +13,7 @@ export default defineConfig({
     socialLinks: [
       { icon: 'discord', link: 'https://discord.com/invite/et2Yyyn62p' },
       { icon: 'github', link: 'https://github.com/TrustATree/xenwriting.com' }
-    ]
-  },
+    ],
     nav: [
       { text: 'Home/Introduction', link: '/' },
       { text: 'Second Hand', link: '/second-hand/' },
