@@ -1,4 +1,4 @@
-Vitepress Theme and config (Modified to our needs) (thank you nintendo homebrew for all you do):
+Vitepress Theme and config (Modified to our needs) (thank you Nintendo Homebrew/hacks.guide team for all you do):
 
 Copyright (c) 2024, Nintendo Homebrew
 
