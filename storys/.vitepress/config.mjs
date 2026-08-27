@@ -12,13 +12,13 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home/Introduction', link: '/' },
-      { text: 'Second Hand', link: '/second-hand' }
+      { text: 'Second Hand', link: '/second-hand/' }
     ],
     sidebar: [
       {
         text: 'Storys by TreeXen',
         items: [
-          { text: 'Second Hand', link: '/second-hand' }
+          { text: 'Second Hand', link: '/second-hand/' }
         ]
       }
     ],
