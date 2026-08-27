@@ -40,7 +40,8 @@ export default defineConfig({
         { text: 'Discord', link: 'https://discord.com/invite/et2Yyyn62p' }
         ],
       copyright: 'Copyright © 2026 TreeXen'
-  }
+    }
+  },
   vite: {
     resolve: {
       alias: [
