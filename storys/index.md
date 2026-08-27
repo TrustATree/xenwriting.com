@@ -23,7 +23,7 @@ onMounted(() => {
 })
 </script>
 
-This is still a work in progress, But welcome to [XenWriting.com](http://xenwriting.com)!
+This is still a work in progress, But welcome to [XenWriting.com](https://xenwriting.com)!
 Currently we only have [Second Hand](./second-hand/), but more should be added soon!
 ::: tip
 **Fun fact:** <span>{{ fact }}</span>
