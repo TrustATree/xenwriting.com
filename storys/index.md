@@ -14,7 +14,13 @@ const funFacts = [
   "Xen has an irrational love for oranges and hot chips.",
   "Xen created a conlang and refuses to teach anyone.",
   "Xen has played Geometry Dash for over 950 hours!",
-  "Charlie is the only Discord moderator to know Xen's real name."
+  "Charlie is the only Discord moderator to know Xen's real name.",
+  "The team consists of 3 members, 2 of which are furries.",
+  "2/3 members of the team know all metro train models in Melbourne.",
+  "Hat_nal accidentally face revealed once- but the video has been deleted.",
+  "The FitnessGram Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues.",
+  "This website started out very shittily coded",
+  "Charlie is the only homeschooled team member."
 ]
 
 const fact = ref('')
@@ -24,8 +30,7 @@ onMounted(() => {
 })
 </script>
 
-This is still a work in progress, But welcome to [XenWriting.com](https://xenwriting.com)!
-Currently we only have [Second Hand](./second-hand/), but more should be added soon!
+This is still a work in progress, But welcome to [XenWriting.com](https://xenwriting.com)! Enjoy your stay!
 ::: tip
 **Fun fact:** <span>{{ fact }}</span>
 :::
