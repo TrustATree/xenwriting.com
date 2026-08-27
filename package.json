@@ -1,0 +1,30 @@
+{
+  "name": "xenwriting.com",
+  "version": "1.0.0",
+  "description": "If you are going to contribuite, ***DO NOT USE THE MAIN BRANCH***, For some reason that I can't figure out, GitHub pages doesn't like the main branch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charl1e39/xenwriting.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Charl1e39/xenwriting.com/issues"
+  },
+  "homepage": "https://github.com/Charl1e39/xenwriting.com#readme",
+  "devDependencies": {
+    "markdown-it-container": "^4.0.0",
+    "vitepress": "^1.6.4"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^7.3.1",
+    "@fortawesome/free-solid-svg-icons": "^7.3.1",
+    "@fortawesome/vue-fontawesome": "^3.3.3"
+  }
+}

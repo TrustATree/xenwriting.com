@@ -1,0 +1,226 @@
+/*
+  Copyright (C) 2024 Nintendo Homebrew
+  Copyright (C) 2024 emiyl
+  SPDX-License-Identifier: MIT
+*/
+
+/* hacks-guide change start: Disable container titles */
+.custom-block {
+  /* original: 16px 16px 8px */
+  padding: 8px 16px 8px;
+}
+
+.custom-block-title {
+  display: none;
+}
+/* hacks-guide change end: Disable container titles */
+
+/* hacks-guide change start: Adjust summary margins on detail containers */
+.custom-block.details summary {
+  /* original: 16px 16px 8px */
+  margin: 8px 0 8px;
+}
+/* hacks-guide change end: Adjust summary margins on detail containers */
+
+/* hacks-guide change start: set display:inline on images */
+img {
+  display: inline;
+}
+/* hacks-guide change end: set display:inline on images */
+
+/* hacks-guide change start: add version selector */
+select {
+  font-weight: bold;
+  font-size: 100%;
+  cursor: pointer;
+  border: 2px solid var(--vp-c-border);
+  background-color: var(--vp-c-bg-soft);
+  padding: .25em;
+  margin-bottom: 1em;
+  border-radius: 4px;
+  appearance: auto;
+}
+
+input {
+  font-weight: bold;
+  font-size: 100%;
+  cursor: pointer;
+  border: 2px solid var(--vp-c-border);
+  padding: .25em;
+  margin-bottom: 1em;
+  border-radius: 4px;
+  appearance: auto;
+}
+
+input:hover {
+  background-color: var(--vp-c-bg-soft);
+}
+
+.selectversion {
+  text-align: center;
+  border: 1px solid var(--vp-c-divider);
+}
+
+img.tableimage {
+  height: 40%;
+  width: 40%;
+}
+
+table.modeltable {
+  display: table;
+  text-align: center;
+  width: 100%;
+}
+
+input[type="radio"] {
+  width: 50px;
+  height: 25px;
+  transition: none;
+}
+/* hacks-guide change end: add version selector */
+
+/* hacks-guide change start: add tabs */
+.tab-container {
+  display: flex;
+  flex-wrap: wrap;
+
+  section {
+    display: contents;
+
+    > input {
+      display: none;
+    }
+
+    .tab-link {
+      border: 1px solid var(--vp-c-border);
+      border-bottom-width: 0;
+      padding: 0.5rem 1rem;
+      transition: 150ms ease;
+      cursor: pointer;
+    }
+
+    @media screen and (min-width: 576px) {
+      html:not([dir=rtl]) & {
+        &:not(:first-of-type) .tab-link {
+          border-left-width: 0px;
+        }
+
+        &:first-of-type .tab-link {
+          border-top-left-radius: 0.25rem;
+        }
+
+        &:last-of-type .tab-link {
+          border-top-right-radius: 0.25rem;
+        }
+      }
+
+      html[dir=rtl] & {
+        &:not(:first-of-type) .tab-link {
+          border-right-width: 0px;
+        }
+
+        &:first-of-type .tab-link {
+          border-top-right-radius: 0.25rem;
+        }
+
+        &:last-of-type .tab-link {
+          border-top-left-radius: 0.25rem;
+        }
+      }
+    }
+  }
+
+  .tab {
+    display: none;
+    padding: .5rem 1.5rem;
+    order: 999;
+    width: 100%;
+    border: 1px solid var(--vp-c-border);
+
+    h1,h2,h3,h4,h5,h6 {
+      padding-top: 1.1em;
+      margin-top: 0;
+    }
+
+    .header-anchor {
+      display: none;
+    }
+
+    @media screen and (min-width: 576px) {
+      border-radius: 0 0.25rem 0.25rem 0.25rem;
+
+      html[dir=rtl] & {
+        border-radius: 0.25rem 0 0.25rem 0.25rem;
+      }
+    }
+
+    /*@media screen and (max-width: 575px) {
+      border-radius: 0;
+      border-bottom-width: 0;
+      order: 0;
+    }*/
+  }
+
+  @media screen and (max-width: 575px) {
+    .tab-last {
+      border-bottom-width: 1px;
+      border-radius: 0 0 0.25rem 0.25rem;
+    }
+  }
+
+  input:checked + .tab-link {
+    border-radius: 0;
+  }
+
+  input:checked + .tab-link + .tab {
+    display: block;
+  }
+
+  input:checked + .tab-link:not(:hover):not(:active):not(:focus) {
+    background-color: var(--vp-c-border);
+    border-color: var(--vp-c-border);
+  }
+
+  .tab-link:hover, .tab-link:active, .tab-link:focus {
+    background-color: var(--vp-c-border-dark);
+    border-color: var(--vp-c-border-dark);
+  }
+}
+/* hacks-guide change end: add tabs */
+
+/* hacks-guide change start: tone down light mode bg */
+:root {
+  --vp-c-bg: #f6f6f6;
+  --vp-c-bg-alt: #ececec;
+  --vp-c-bg-elv: #f6f6f6;
+  --vp-c-bg-soft: #ececec;
+}
+
+.dark {
+  --vp-c-bg: #1b1b1f;
+  --vp-c-bg-alt: #161618;
+  --vp-c-bg-elv: #202127;
+  --vp-c-bg-soft: #202127;
+}
+
+/* hacks-guide change end: tone down light mode bg */
+
+/* hacks-guide change start: disable transition on homepage navbar */
+.VPNavBar.home {
+  transition: unset
+}
+/* hacks-guide change end: disable transition on homepage navbar */
+
+/* hacks-guide change start: add grid cards */
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  grid-auto-rows: auto;
+  grid-gap: 1rem;
+
+  .card {
+    padding: 10px;
+    border: 1px solid var(--vp-c-gray-soft);
+  }
+}
+/* hacks-guide change end: add grid cards */

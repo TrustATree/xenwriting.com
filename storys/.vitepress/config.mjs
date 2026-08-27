@@ -1,0 +1,75 @@
+import { fileURLToPath, URL } from 'node:url'
+import { defineConfig } from 'vitepress'
+import container from 'markdown-it-container'
+
+export default defineConfig({
+  title: "TreeXen's Storys",
+  description: "Silly",
+  head: [['link', { rel: 'icon', href: '/assets/img/favicon.ico' }]],
+  sitemap: {
+    hostname: 'https://xenwriting.com'
+  },
+  themeConfig: {
+    nav: [
+      { text: 'Home/Introduction', link: '/' },
+      { text: 'Second Hand', link: '/second-hand' }
+    ],
+    sidebar: [
+      {
+        text: 'Storys by TreeXen',
+        items: [
+          { text: 'Second Hand', link: '/second-hand' }
+        ]
+      }
+    ],
+    docFooter: {
+      prev: false,
+      next: false
+    }
+  },
+  vite: {
+    resolve: {
+      alias: [
+        {
+          find: /^.*\/VPHero\.vue$/,
+          replacement: fileURLToPath(
+            new URL('./theme/components/VPHero.vue', import.meta.url)
+          )
+        },
+        {
+          find: /^.*\/VPFooter\.vue$/,
+          replacement: fileURLToPath(
+            new URL('./theme/components/VPFooter.vue', import.meta.url)
+          )
+        }
+      ]
+    }
+  },
+  markdown: {
+    config: (md) => {
+      md.use(container, "tabs", {
+        render: (tokens, idx) => {
+          const token = tokens[idx];
+          if (token.nesting === 1) {
+            return `<Tabs ${token.info}>\n`;
+          } else {
+            return `</Tabs>\n`;
+          }
+        }
+      });
+      md.use(container, 'tab', {
+        render: (tokens, idx) => {
+          const token = tokens[idx];
+          if (token.nesting === 1) {
+            let tokenData = token.info.match(/^ ?tab\s(default\s)?(.*)$/);
+            let isDefault = typeof tokenData[1] !== 'undefined';
+            let name = tokenData[2];
+            return `<Tab name="${name}" ${isDefault ? "default=true" : ""}>`;
+          } else {
+            return `</Tab>\n`;
+          }
+        }
+      });
+    }
+  }
+})
