@@ -4,7 +4,7 @@ import container from 'markdown-it-container'
 
 export default defineConfig({
   title: "TreeXen's Storys",
-  description: "Silly",
+  description: "Storys written by TreeXen",
   head: [['link', { rel: 'icon', href: '/assets/img/favicon.ico' }]],
   sitemap: {
     hostname: 'https://xenwriting.com'
