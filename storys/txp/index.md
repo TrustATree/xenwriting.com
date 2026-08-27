@@ -182,3 +182,109 @@ she doesn't have the number saved, so she tries to recall the number.
 she remembers who it is.
 
 she declines the call and blocks the number.
+
+## Episode 5
+
+Xen's ears are ringing quite loudly
+
+She can't seem to calm down quite easily, even though nothing is really triggering her
+
+She feels normal, but can't really think straight
+
+It feels a bit like less than a panic attack
+
+She cleans up the glass on the floor and heads off to work
+
+The walk feels longer than usual for some reason...
+
+She's thinking about every step
+
+Step... step...
+
+step...
+
+Her steps get quiet as she walks on the dirt
+
+The skate park looks slightly duller than usual
+
+almost...
+
+hazy...
+
+like she can't remember everything...
+
+She moves on, clearly unable to process everything going on in her mind
+
+People passing by see her walking normally, but clutching her head slightly
+
+'Just a headache' she repeats to herself 'just a headache, nothing more'...
+
+----------
+
+When she gets to work she feels overwhelmed and tired
+
+the constant loud noises aren't helping either
+
+She takes a moment to calm down...
+
+...
+
+.......
+
+'hey'
+
+'hey Xen'
+
+'Xen'
+
+a woman nudges her from over the counter
+
+'Xen, can I order now?'
+
+Xen looks at her, a bit confused
+
+'how do you know my name...'
+
+'It's on your badge thing. Now can I get a large flat white with one sugar and banana bread?'
+
+she hesitates for a second
+
+'yeah, yeah...'
+
+The woman looks concerned
+
+'are... are you okay?'
+
+'Yeah... yeah I'm fine, just a headache... probably' she mumbles as she says 'probably'
+
+She takes the woman's order and rings her up
+
+Then goes on lunch break
+
+........
+
+It doesn't get better
+
+She might be having a full panic attack
+
+she's clutching her forehead and breathing heavily
+
+when her co-worker checks on her, Xen shuts her out
+
+'please, leave me alone. I'm fine' her voice cracked and shaky
+
+She's not fine
+
+She hesitates for a second
+
+...
+
+She gets up and stumbles out of the building into the alleyway out the back
+
+Immediately, she doubles over and vomits onto the whatever's on the ground
+
+She drops to her knees in pain
+
+She's had episodes like this before, but never this bad
+
+All she can do is dial half of the emergency number before passing out.
