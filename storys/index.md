@@ -20,7 +20,8 @@ const funFacts = [
   "Hat_nal accidentally face revealed once- but the video has been deleted.",
   "The FitnessGram Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues.",
   "This website started out very shittily coded.",
-  "Xen doesn't know how to use punctuation."
+  "Xen doesn't know how to use punctuation.",
+  ":3"
 ]
 
 const fact = ref('')
