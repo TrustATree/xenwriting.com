@@ -14,5 +14,6 @@ Currently we only have [Second Hand](./second-hand/), but more should be added s
 ::: tip
 
 **Fun fact:**
+
 [fun facts go here]
 :::
