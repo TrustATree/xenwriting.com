@@ -23,6 +23,15 @@ const funFacts = [
   "Xen doesn't know how to use punctuation.",
   ":3"
 ]
+<script setup>
+import { ref, onMounted } from 'vue'
+import SnakeGame from './.vitepress/theme/SnakeGame.vue'
+
+const fact = ref('')
+
+onMounted(() => {
+  fact.value = funFacts[Math.floor(Math.random() * funFacts.length)]
+})
 </script>
 
 This is still a work in progress, But welcome to [XenWriting.com](https://xenwriting.com)! Enjoy your stay!
