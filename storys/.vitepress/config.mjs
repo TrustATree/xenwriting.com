@@ -17,14 +17,16 @@ export default defineConfig({
     nav: [
       { text: 'Home/Introduction', link: '/' },
       { text: 'Second Hand', link: '/second-hand/' },
-      { text: 'The Xen Paradox', link: '/txp' }
+      { text: 'The Xen Paradox', link: '/txp' },
+      { text: 'A Drone With Emotions', link: '/adwe' }
     ],
     sidebar: [
       {
         text: 'Storys by TreeXen',
         items: [
           { text: 'Second Hand', link: '/second-hand/' },
-          { text: 'The Xen Paradox', link: '/txp' }
+          { text: 'The Xen Paradox', link: '/txp' },
+          { text: 'A Drone With Emotions', link: '/adwe' }
         ]
       }
     ],
