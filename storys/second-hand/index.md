@@ -1,5 +1,6 @@
 # Second Hand by Xen
-Episode 1
+
+## Episode 1
 
 The thrift store is always a great option, no matter how much money you actually have. They have good clothes, books, lollies, and hard drives. I like buying hard drives from the thrift store, you find some weird stuff on them sometimes. I once found a hundred bitcoin on a hard drive that I bought for two dollars and fifty cents. Long story short, that made me slightly rich.
 I go thrifting once a week, on Saturdays, 12PM, every week. If someone wants to hang out at that time, we go thrifting. It’s like a part-time job or something. I think in total I’ve made about a hundred fifty thousand from thrifting, plus the bitcoin. It’s a great activity to pass the time and you benefit from it most of the time.
@@ -10,7 +11,7 @@ I could tell immediately that he’s trying to hurt me. Then I noticed the gun i
 My course of action was simple, spill my drink, let someone slip and cause a commotion, hopefully take him to the ground with everyone depending on how long it takes for someone to slip. Get away without drawing attention to myself. This way, I was able to get the amateur killer off my ass while getting out of that obnoxious club. Safe to say I won’t be going there for a long while.
 I returned home, and immediately went to bed. It was a long day prior and I needed rest from nearly being murdered.
 
-Episode 2
+## Episode 2
 
 There’s a note at my door.
 I don’t know what it is. It didn’t fall off my door. It’s not mine. Someone put it under my door. They know where I live.
@@ -40,7 +41,7 @@ I sigh and lean forward in my chair. ‘When a magician performs a trick in fron
 The guy on the left looks impressed, the guy on the right is disappointed. Neither of them are suspicious of me. I’ve won.
 ‘Fair enough… I guess… we’ll go…’
 
-Episode 3
+## Episode 3
 
 I’m playing a game in my room when I hear a quiet knock at my door, so I open it. On the other side, I see a rather shaken up, short and skinny kid. His clothes torn and him bruised and bleeding in several spots. I notice a wound in his leg that looks a bit too large to be just an accident.
 ‘th-there’s mail for y-you…’ he says, terrified.
@@ -62,7 +63,7 @@ He nods, still shaking. I grin at him. He does not grin back.
 Saturday. 12:00PM. Your favourite thrift store.’
 I grin, ‘looks like this little shit did his research’ 
 
-Episode 4
+## Episode 4
 
 ‘Make sure to take notes. I don’t know what they want but judging by the notes I can assume they’ll be cryptic about everything.’
 I slide him the stack of large notes, and he immediately pockets them, and nods. Without a word, he walks directly to the opposite corner of the store. I begin ‘scanning’ the shelves looking for deals.
