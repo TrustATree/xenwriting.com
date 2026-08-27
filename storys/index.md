@@ -35,3 +35,4 @@ This is still a work in progress, But welcome to [XenWriting.com](https://xenwri
 ::: tip
 **Fun fact:** <span>{{ fact }}</span>
 :::
+<SnakeGame/>
