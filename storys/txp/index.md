@@ -183,6 +183,76 @@ she remembers who it is.
 
 she declines the call and blocks the number.
 
+## Episode 4
+
+Xen feels slightly traumatic
+
+It seems like she knows the number all too well
+
+It makes her almost panic
+
+She takes deep breaths and tries to not overthink it
+
+She surpresses her emotions
+
+The mental image of the man stained in her memory where it shouldn't be
+
+She goes home
+
+Her vibrant and decorated room feels dull and empty
+
+She leans her skateboard on the side of her desk and sits on her bed
+
+...
+
+She goes to sleep early
+
+...
+
+. . .
+
+.  .  .
+
+She wakes up in her childhood bedroom
+
+From at least 15 years ago or something
+
+It's so colourful and childish, innocent...
+
+But something is off about it
+
+Something just feels wrong
+
+She tries to ignore it but it's there
+
+She looks around
+
+The toy cars are in their place, as are her blue shoes, untied...
+
+it's the walls
+
+they're painted red, not pink
+
+they should be pink
+
+why are the walls red..?
+
+The room gets darker and darker...
+
+Until it fades to black...
+
+The last thing she can hear is shouting - a man shouting...
+
+Then glass shattering
+
+7:30 AM
+
+Xen wakes up
+
+She looks around
+
+it was just a glass of water falling off the bench
+
 ## Episode 5
 
 Xen's ears are ringing quite loudly
