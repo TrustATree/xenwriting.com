@@ -1,8 +1,8 @@
 ---
 layout: home
-title: "TreeXen's Storys"
+title: "TreeXen's Story's"
 hero:
-  text: "TreeXen's Storys"
+  text: "TreeXen's Story's"
   tagline: "Story's written by TreeXen"
 ---
 
