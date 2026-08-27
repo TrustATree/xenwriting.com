@@ -33,7 +33,13 @@ export default defineConfig({
     docFooter: {
       prev: false,
       next: false
-    }
+    },
+    footer: {
+      items: [
+        { text: 'Source Code', link: 'https://github.com/TrustATree/xenwriting.com' },
+        { text: 'Discord', link: 'https://discord.com/invite/et2Yyyn62p' }
+        ],
+      copyright: 'Copyright © 2026 TreeXen'
   },
   vite: {
     resolve: {
