@@ -21,7 +21,13 @@ const funFacts = [
   "The FitnessGram Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues.",
   "This website started out very shittily coded.",
   "Xen doesn't know how to use punctuation.",
-  ":3"
+  ":3",
+  "Hat_nal didn't respond when we asked him for his favourite colour, but Xen's is purple and Charlie's is orange",
+  "I'm trapped in the fish dimension",
+  "Charlie gets increasingly mad at Hat_nal and Xen for changing anything in the source code",
+  "Xen has never beaten Minecraft",
+  "Hat_nal took 9 minutes to name 26 vocaloids he knows",
+  "Hat_nal coded the snake button and nothing else"
 ]
 
 const fact = ref('')
