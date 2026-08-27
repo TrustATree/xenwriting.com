@@ -12,13 +12,15 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home/Introduction', link: '/' },
-      { text: 'Second Hand', link: '/second-hand/' }
+      { text: 'Second Hand', link: '/second-hand/' },
+      { text: 'The Xen Paradox', link: '/txp' }
     ],
     sidebar: [
       {
         text: 'Storys by TreeXen',
         items: [
-          { text: 'Second Hand', link: '/second-hand/' }
+          { text: 'Second Hand', link: '/second-hand/' },
+          { text: 'The Xen Paradox', link: '/txp' }
         ]
       }
     ],
