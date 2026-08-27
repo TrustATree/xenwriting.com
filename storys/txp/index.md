@@ -120,3 +120,65 @@ Her legs are attached to her body.
 The alarm clock reads, 7:30AM
 
 'Shit, I'm late for work'
+
+## Episode 3
+
+Xen's fortnightly appointment with her therapist was coming up, so she got dressed and skated to wherever it was, she doesn't really pay attention to names of things.
+
+The session went very smoothly. Xen shared the nightmare she had last night, they practiced breathing exercises and her therapist helped her cope with the… incident…
+
+She thinks she's finally moved on from whatever it was.
+
+After the session, she heads to the skate park to relax and maybe hit some cool tricks.
+
+Since she doesn't have anything planned for the day, she can take her time to look around after the skating session.
+
+Finally, at about 12:00PM, she heads down the street from [episode 1]. She tears up as she passes her childhood home.
+
+She moves past it.
+
+...
+
+and comes back.
+
+she looks at the house, and walks up to it.
+
+it looks worn down, and nearly abandoned. One of the windows has a small crack in it, and there's moss growing at the corners. There's weeds and overgrown grass all around the pavement.
+
+There's no smoke coming out of the chimenys. the gate seems to have broken off, which blocks cars from getting into the driveway.
+
+no one's living there anymore.
+
+it almost makes Xen sad looking at it.
+
+She moves on, and buys a muffin from her workplace.
+
+She sees a small child upset because they seem to have injured themselves in a way.
+
+Xen buys the child a small lollipop to cheer them up, and they seem to calm down a bit.
+
+The child's mother thanks Xen as they continue their walk.
+
+Xen eats her muffin in peace..
+
+She finds a bench at a park to eat and relax.
+
+It's the same park she used to visit as a child.
+
+she used to have so much fun on the swings.
+
+She tears up a bit as her fond memories come flooding back to her.
+
+Almost all of her soul is happy now…
+
+except for the incident…
+
+Xen's phone begins to ring.
+
+she looks at the caller.
+
+she doesn't have the number saved, so she tries to recall the number.
+
+she remembers who it is.
+
+she declines the call and blocks the number.
