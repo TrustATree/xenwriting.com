@@ -14,8 +14,7 @@ const funFacts = [
   "Xen has an irrational love for oranges and hot chips.",
   "Xen created a conlang and refuses to teach anyone.",
   "Xen has played Geometry Dash for over 950 hours!",
-  "Charlie is the only Discord moderator to know Xen's real name.",
-  "You can join Xen's discord server at [this link](https://discord.com/invite/et2Yyyn62p)!"
+  "Charlie is the only Discord moderator to know Xen's real name."
 ]
 
 const fact = ref('')
