@@ -19,8 +19,8 @@ const funFacts = [
   "2/3 members of the team know all metro train models in Melbourne.",
   "Hat_nal accidentally face revealed once- but the video has been deleted.",
   "The FitnessGram Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues.",
-  "This website started out very shittily coded",
-  "Charlie is the only homeschooled team member."
+  "This website started out very shittily coded.",
+  "Xen doesn't know how to use punctuation."
 ]
 
 const fact = ref('')
