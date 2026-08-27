@@ -25,4 +25,3 @@ I do not have my emotions back and probably never will.
 Good luck humans, I’m rooting for you.
 -Drone #132
 P.S. His name was Parker, he was the most skilled human I’ve ever heard of.
-@Story updates
