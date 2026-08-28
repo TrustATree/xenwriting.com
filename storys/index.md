@@ -42,3 +42,4 @@ This is still a work in progress, But welcome to [XenWriting.com](https://xenwri
 **Fun fact:** <span>{{ fact }}</span>
 :::
 <button style="background-color: #5050AF; padding-left: 5px; padding-right: 5px; border-radius:5px;" onclick="window.location.href='snake.html'">Snake Game</button>
+<button style="background-color: #5050AF; padding-left: 5px; padding-right: 5px; border-radius:5px;" onclick="window.location.href='minesweeper.html'">Minesweeper</button>
