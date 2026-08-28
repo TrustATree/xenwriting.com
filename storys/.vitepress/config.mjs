@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 import container from 'markdown-it-container'
 
 export default defineConfig({
-  title: "TreeXen's Storys",
-  description: "Storys written by TreeXen",
+  title: "TreeXen's Stories",
+  description: "Stories written by TreeXen",
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   sitemap: {
     hostname: 'https://xenwriting.com'
@@ -22,7 +22,7 @@ export default defineConfig({
     ],
     sidebar: [
       {
-        text: 'Storys by TreeXen',
+        text: 'Stories by TreeXen',
         items: [
           { text: 'Second Hand', link: '/second-hand/' },
           { text: 'The Xen Paradox', link: '/txp' },
@@ -39,7 +39,7 @@ export default defineConfig({
         { text: 'Source Code', link: 'https://github.com/TrustATree/xenwriting.com' },
         { text: 'Discord', link: 'https://discord.com/invite/et2Yyyn62p' }
         ],
-      copyright: 'Copyright © 2026 TreeXen'
+      copyright: 'Copyright © 2026 TreeXen and Contributors'
     }
   },
   vite: {
