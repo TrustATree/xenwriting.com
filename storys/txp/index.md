@@ -433,135 +433,253 @@ She waits in the station for about an hour, until someone arrives, checks in wit
 ## Episode 7
 
 …
+
 …..
+
 Xen’s ears are ringing extremely loudly
+
 …
+
 She can barely hear anything over it
+
 …
+
 Her vision is just black
+
 …
+
 ‘Can you hear me?’
+
 …
+
 Nothing.
+
 …
+
 The ringing stops.
+
 Everything stops.
+
 …
+
 …..
+
 ‘Your house looks like a café…’
+
 .
 ‘oh hey there kid, are you the foster child?’
+
 ‘y-yeah… nice to m-meet you’
+
 ‘nice to meet you too!’
+
 …
+
 His smile was wide and comforting…
+
 ‘what’s your name?’
+
 ‘I-I’m…’
+
 ‘XEN!’
+
 Xen’s eyes widen as he stands over her.
+
 Oh thank god you’re awake, I was so worried about you!
+
 ‘yeah, h-hi… I’m sorry I couldn’t talk much, I’ve just been stressed lately…’
+
 ‘yeah, no problem honey. You’re gonna be okay, trust me.’
+
 ‘thank you..’
+
 Xen smiles weakly at the pet name, unsure how to feel about it, but supportive either way.
+
 He smiles at Xen, pecks her on the cheek and whispers, ‘I’ll be at the café for a few hours. If you’re not out by 6 I’ll head home, kay?’
+
 ‘No problem, see ya later… sweetie’
+
 He grins, ‘see ya’
+
 Xen blushes
+
 A doctor comes in holding a clipboard and looking too proud of himself.
+
 ‘You were extremely lucky today, you know that?’
+
 This confuses Xen ‘how so’
+
 ‘You had probably the weakest case of stomach cancer I’ve ever seen. And that’s after I personally found you in the alley, and could get you in an ambulance fast enough for you to not even feel a thing!’
+
 ‘c-cancer…’ Xen is shocked, and replies ‘I actually had cancer? What- how…’
+
 ‘It could’ve been multiple things, but the most likely story is that it just developed in your body,’ he replies.
+
 ‘oh, that’s fair I guess… I don’t really know how to react honestly’
+
 ‘fair enough. I guess you can expect to get out tomorrow morning, unless you stay up and you can get out at hopefully before midnight, if that’s alright with you?’
+
 Xen chuckles a bit, ‘like usual. Yeah, I’ll stay up if you have coffee available.’
+
 …
 
 
 
 *10:45PM*
+
 The doctor arrives once again with some coffee in hand
+
 ‘You ordered a flat white with one sugar?’ he hands the cup to her
+
 ‘yes, thank you.’ She takes small but frequent sips.
+
 ‘You can leave whenever you’re ready. Don’t have to call anyone, tell anyone, or anything. Just sign out at the front and you’re all good to go.’
+
 Xen smiles, ‘thank you so much. It’s still a bit hard to believe that I had cancer’
+
 ‘yeah, it’s strange sometimes. Anyways, your clothes are in the bathroom in that corner there,’ he points to the corner where the small bathroom is, ‘I put your phone and stuff in your pockets for you so don’t worry about that. If you want to look around, feel free but don’t go in any rooms with a number on ‘em. Take care, now’
+
 ‘bye..’
+
 She keeps slowly drinking her coffee as the doctor leaves again.
+
 …
+
 *11PM*
+
 Xen walks out of the hospital, feeling a wave of relief, and calls her boyfriend.
+
 ‘Hey! Sorry, I’m not able to take your call at the moment. Call back soon though, or leave a voicemail after the beep’
+
 Beep
+
 Xen hangs up. She frowns slightly, but calls an uber to get home.
 
 ## Episode 8
 
 12:00 AM
+
 The ride home was quiet.
+
 Xen felt empty, like she was missing something.
+
 Something important.
+
 It kept her up late at night.
+
 …
+
 At 2:15 AM, she texted her boyfriend
+
 ‘Hey babe, I can’t sleep so I’ll probably be tired tomorrow. Just letting you know. Gn’
+
 He didn’t reply back in the hour that she stayed up.
+
 He was probably asleep.
+
 3:15 AM
+
 …
+
 5:30 AM
+
 Xen wakes up. A large figure stands at Xen’s door. She doesn’t notice for a few minutes, but when she does notice out of the corner of her eye, they take a step closer, still hiding in the dark.
+
 She’s terrified. She can feel her heart racing, her breaths quicken.
+
 The figure stands over her.
+
 It has no scent, no voice.
+
 It stands there, doing nothing, until Xen blinks.
+
 When she blinks, the figure grabs a shotgun from somewhere and aims at her.
+
 12:17 PM
+
 Xen wakes in a cold sweat, tears threatening to fall. She wipes them off and drinks some water.
+
 She checks her phone.
+
 ‘Hey! Sorry I didn’t reply earlier, I was asleep. Take the day off so you can rest easily. You’ve been through a lot recently.’
+
 Xen doesn’t know what to say. It’s not that she’s speechless, just unsure.
 
 ## Episode 9
 
 Xen sits on her bed, unsure of what to do. Her glowing phone screen begging for her
+
 She picks it up, and puts it down
+
 …
+
 She gets up
+
 She walks to the kitchen to make some food
+
 She doesn’t notice the new message appear on her phone;
+
 ‘Are you okay? You left me on read.’
+
 Her food tastes okay
+
 She just can’t get her mind off anything. All the recent events leading up to this, are they connected? What does it mean?
+
 It was just a house… no, fuck that, it’s not just a house, it’s where it all began. Her love for music, and skating, and her new family…
+
 It’s where she realised the truth about her mother. She was in the living room of that house when it happened. Her foster dad came in, sat down with her, handed her a juice box, and delivered the news.
+
 ‘Your mum… she’s in a coma.’
+
 But how is it connected to today?
+
 The first nightmare. Her first ever nightmare happened just days ago. The man at her door with the weapon…
+
 She connects it to her father
+
 When she had cancer and got that treated, was it connected too?
+
 If so, how?
+
 .
 She catches herself. She slows down
+
 ‘Calm down, Xen. Calm down. Now’s not the time to overthink.’
+
 She stops.
+
 She finds her phone in her room.
+
 She ignores the messages.
+
 She opens the calendar app.
+
 'I remember, it was a friday. A friday in... 2015, yeah 2015...'
+
 She scrolls back to 2015
+
 'friday morning in september 2015...'
+
 'september 18th...'
+
 'today is september 15th.'
+
 Xen's face pales. Panic sets in.
+
 All the screaming, yelling, gunshots...
+
 She might relive it in 3 days.
+
 The date is september 15th, 2025. 10 years ago on september 18th, Xen's father was arrested and sent to prison, convicted of attempted murder on his wife. Just minutes before his arrest, he attempted the same on Xen, escaping the officer's grasp and aiming his shotgun directly at her forehead.
+
 Xen was a split second from death.
+
 Her father was charged with 10 years of prison.
+
 He gets out in 3 days.
+
 Xen hasn't moved houses that entire time.
+
 But the question is, would he find Xen?
+
 And would history repeat itself?
