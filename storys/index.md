@@ -28,7 +28,8 @@ const funFacts = [
   "Xen has never beaten Minecraft",
   "Hat_nal took 9 minutes to name 26 vocaloids he knows",
   "Hat_nal coded the snake button and nothing else",
-  "Hat_nal once got mad at Xen for taking too long to install Git."
+  "Hat_nal once got mad at Xen for taking too long to install Git.",
+  "Charlie doesn't know the difference between a joke and being annoying"
 ]
 
 const fact = ref('')
