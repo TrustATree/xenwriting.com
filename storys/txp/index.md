@@ -358,3 +358,75 @@ She drops to her knees in pain
 She's had episodes like this before, but never this bad
 
 All she can do is dial half of the emergency number before passing out.
+
+## Episode 6
+
+This is the story of a girl called Xen.
+
+Xen is a child, born and raised in Montana, USA.
+
+She loves exploring new places and coming up with unique games to play everywhere she goes.
+
+And every time you see her, she’ll have a new favourite colour.
+
+Her mother is kind and caring. She always packs Xen a big lunch for school and teaches her how to play the guitar. They both love music and listen to a playlist they’ve created every day on the way to school.
+
+Her father is really lazy and doesn’t cook most nights. His house is messy. The walls are bland and the paint is tearing in most places. All he owns is a TV, couch, fridge, air fryer and a really uncomfortable bed for Xen.
+
+Xen lives with her mother on the weekdays, and with her father on weekends. She likes her mother’s house a lot more. They live about an hour away from each other, so the drive to and from each house is pretty long and boring sometimes.
+
+This story starts on a seemingly normal Monday morning, when Xen is in her father’s car ready to be dropped off at her mother’s house. Her father is bad at driving, so there’s some other man in the car giving instructions to her father.
+
+When they finally arrive to the house, her father gets out of the car first, something he doesn’t do usually, and says to Xen;
+
+‘Stay here, I need to talk to talk to your mother.’ In a very stern voice.
+
+Xen stays in the car reluctantly, and waits patiently.
+
+She can hear yelling… a lot of yelling, back and forth…
+
+Then police show up and bang on the door, demanding to be let in.
+
+Xen waits patiently in the car.
+
+The police break their way in.
+
+She can see through the window, her father holding her mother very tight.
+
+Then a loud explosion.
+
+A lot more yelling.
+
+More explosions, quickly and frequently.
+
+Then one of the police guys come out of the house after everything settles down.
+
+‘Hey, kid. You must be Xen, right?’
+
+‘Y-yeah…’
+
+‘I have very… unfortunate news…’
+
+There’s a long and awkward silence following as the cop stands between Xen’s view and the door, and people inside shut the curtains. There’s a lot of talking going on and an ambulance shows up.
+
+‘Y-your mother… uhh… you can’t stay with your mom anymore…’
+
+‘Why?’ Xen asked, innocently.
+
+The cop turns away for a second, mutters something under his breath and turns back.
+
+‘I… your mother…’ he sighs, clearly uncomfortable.
+
+‘Hey, kid. This is a really difficult situation, cos you’re just so innocent and I can’t break that. I really can’t. Just please, promise me you won’t go poking around in there, alright?’
+
+Xen nods a little.
+
+‘Thank you so much, kiddo. Now if you don’t mind, would you like to ride in a police car?’
+
+Xen’s face immediately lights up, forgetting most of what happened.
+
+They share stories in the car until they get to the station, where Xen is dropped off.
+
+She waits in the station for about an hour, until someone arrives, checks in with the receptionist, takes Xen to a police car and drives her to someone’s house.
+
+‘There you go, kid. Enjoy your new family.’
