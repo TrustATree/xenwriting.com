@@ -1,12 +1,8 @@
 # Second Hand by Xen
 
-::: warning
-
 # **Trigger Warning:**
 
 **This story contains extreme use of triggering topics such as violence, gore and extremely mature language. If you are sensitive to any of these topics, I advise you to read something else.**
-
-:::
 
 ## Episode 1
 
