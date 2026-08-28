@@ -1,9 +1,9 @@
 ---
 layout: home
-title: "TreeXen's Story's"
+title: "TreeXen's Stories"
 hero:
-  text: "TreeXen's Story's"
-  tagline: "Story's written by TreeXen"
+  text: "TreeXen's Stories"
+  tagline: "Stories written by TreeXen"
 ---
 
 <script setup>
