@@ -1,5 +1,4 @@
-# A Drone with Emotions
-## By Xen
+# A Drone with Emotions By Xen
 24th of August, 21949
 Converted to human years by █ █████
 Not all stories have a happy ending… I'm sorry ██████.
