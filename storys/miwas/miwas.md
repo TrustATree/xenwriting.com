@@ -46,6 +46,6 @@ Final known words: “██████, ██████ get me the fuck out
 
 The following images are notes recovered from a school in ████████████. No body was found within a 300 foot radius of them.
 
-![Note 1](/storys/public/img/miwas/miwas_note_1.jpg)
+![Note 1](/img/miwas/miwas_note_1.jpg)
 
-![Note 2](/storys/public/img/miwas/miwas_note_2.jpg)
+![Note 2](/img/miwas/miwas_note_2.jpg)
