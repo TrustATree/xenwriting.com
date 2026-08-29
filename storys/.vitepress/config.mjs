@@ -21,7 +21,10 @@ export default defineConfig({
         items: [
           { text: 'Second Hand', link: '/second-hand/' },
           { text: 'The Xen Paradox', link: '/txp' },
-          { text: 'A Drone With Emotions', link: '/adwe' }
+          { text: 'A Drone With Emotions', link: '/adwe' },
+          { text: 'Mark It With A Slit', link: '/miwas' },
+          { text: 'Sentimental', link: '/sentimental' },
+          { text: 'No One Believes Me', link: '/nobm' }
         ]
       }
     ],
@@ -31,7 +34,10 @@ export default defineConfig({
         items: [
           { text: 'Second Hand', link: '/second-hand/' },
           { text: 'The Xen Paradox', link: '/txp' },
-          { text: 'A Drone With Emotions', link: '/adwe' }
+          { text: 'A Drone With Emotions', link: '/adwe' },
+          { text: 'Mark It With A Slit', link: '/miwas' },
+          { text: 'Sentimental', link: '/sentimental' },
+          { text: 'No One Believes Me', link: '/nobm' }
         ]
       }
     ],
