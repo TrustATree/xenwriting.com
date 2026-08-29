@@ -1,8 +1,12 @@
 # Second Hand by Xen
 
+::: warning
+
 # **Trigger Warning:**
 
 **This story contains extreme use of triggering topics such as violence, gore and extremely mature language. If you are sensitive to any of these topics, I advise you to read something else.**
+
+:::
 
 ## Episode 1
 
@@ -280,4 +284,3 @@ My life, hers, everything. My entire life ahead of me is decided by one finger. 
 .
 
 Never did I think today was they day I’d become a murderer. If you asked me just a week ago, I’d think I would be out at a casino or a bar or something right now. If you told me I would be scaling my apartment building from the outside escaping the police who haven’t even been called yet, I would’ve told you to stop being a cunt and deal my cards.
-

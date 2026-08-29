@@ -1,8 +1,12 @@
 # The Xen Paradox
 
+::: warning
+
 # **Trigger Warning:**
 
 **This story has mentions of triggering topics, such as violence, gore, horriffic themes and more. Please be warned if you are sensitive to any of these or other related topics**
+
+:::
 
 ## Episode 1
 
@@ -518,8 +522,6 @@ This confuses Xen ‘how so’
 Xen chuckles a bit, ‘like usual. Yeah, I’ll stay up if you have coffee available.’
 
 …
-
-
 
 *10:45PM*
 
