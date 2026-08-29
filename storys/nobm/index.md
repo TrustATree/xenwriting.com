@@ -29,5 +29,3 @@ I turn to the now open door, breathing quickly, heart beating out of my chest. I
 I nod quickly, ‘y-yeah.’
 
 ‘Dude, you gotta start taking your meds again. No one just magically heals out of schizophrenia.’
-
-
