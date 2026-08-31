@@ -283,4 +283,12 @@ My life, hers, everything. My entire life ahead of me is decided by one finger. 
 
 .
 
-Never did I think today was they day I’d become a murderer. If you asked me just a week ago, I’d think I would be out at a casino or a bar or something right now. If you told me I would be scaling my apartment building from the outside escaping the police who haven’t even been called yet, I would’ve told you to stop being a cunt and deal my cards.
+Never did I think today was they day I’d become a murderer. If you asked me just a week ago, I’d think I would be out at a casino or a bar or something right now. If you told me I would be scaling my apartment building from the outside escaping the police who haven’t even been called yet because I killed a victim of human trafficking, I would’ve told you to stop being a cunt and deal my cards.
+
+**5.1**
+
+I scan the roof for a sign of anyone living. After confirming no one's there, I sit down. I rest. I rest for a long while. It doesn't ease my anything.
+
+The sun sets over the rooftops, casting a gradient that shifts from orange on the horison to blue above. The stars are barely visible. I can't see it. All I see is a dust storm. And birds, and electrical wires and factories pumping smoke into the sky fogging up the air so I can't see the sunset or the ocean.
+
+It's almost sad to look at, while terrifying at the same time. Because I know it's a symbol for something. I just can't confirm what yet.
