@@ -14,7 +14,7 @@ const funFacts = [
   "Xen has an irrational love for oranges and hot chips.",
   "Xen created a conlang and refuses to teach anyone.",
   "Xen has played Geometry Dash for over 950 hours!",
-  "Charlie is the only Discord moderator to know Xen's real name.",
+  "Charlie is one of only 2 Discord moderators to know Xen's real name",
   "The team consists of 3 members, 2 of which are furries.",
   "2/3 members of the team know all metro train models in Melbourne.",
   "Hat_nal accidentally face revealed once- but the video has been deleted.",
@@ -29,7 +29,10 @@ const funFacts = [
   "Hat_nal took 9 minutes to name 26 vocaloids he knows",
   "Hat_nal coded the snake button and nothing else",
   "Hat_nal once got mad at Xen for taking too long to install Git.",
-  "Charlie doesn't know the difference between a joke and being annoying"
+  "Charlie doesn't know the difference between a joke and being annoying",
+  "5 of these fun facts are just the team being petty",
+  "Xen is planning to get into game design with a couple friends",
+  "Hat_nal randomly met Xen's childhood friend at school and they're still friends to this day!"
 ]
 
 const fact = ref('')
