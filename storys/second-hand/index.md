@@ -292,3 +292,63 @@ I scan the roof for a sign of anyone living. After confirming no one's there, I 
 The sun sets over the rooftops, casting a gradient that shifts from orange on the horison to blue above. The stars are barely visible. I can't see it. All I see is a dust storm. And birds, and electrical wires and factories pumping smoke into the sky fogging up the air so I can't see the sunset or the ocean.
 
 It's almost sad to look at, while terrifying at the same time. Because I know it's a symbol for something. I just can't confirm what yet.
+
+## Episode 6
+
+Life is cold and meaningless.
+
+It's an empty void of completing tasks to stay alive for a little while longer. Not to mention it's all just based on luck.
+
+If you get unlucky, you could get killed. Or worse, roped into the mafia.
+
+I was roped into the mafia.
+
+..
+
+I arrive at the location. It's not stereotypical, rather near the entrance to the sewers. I get out of my van and lump the body onto the floor.
+
+The small guy watches me as I look around and spot him.
+
+'Took you long enough.'
+
+I don't respond. I just wait.
+
+'Your initiation is complete. You're now a part of the mafia. Anything you'd like to say?'
+
+..
+
+I get in my van and drive off.
+
+The last thing I remember is a huge explosion, my van tipping on it's side as I crash into the floor. This agonising burning sensation all across my body. As I wake up, tied to a chair. Half the flesh on my body burned and cracked. My clothes torn and hair half the length on one side. Whenever I move, the pain just gets worse. I stop moving quickly.
+
+The small guy looks at me, studying, as I wake.
+
+'That was stupid. Now you're gonna look like two-face for the rest of your life.'
+
+The duct tape on my mouth I didn't notice keeps me quiet.
+
+'Anyways, you're stuck here until I know you can comply, which honestly could be right now but you never really know, do you?'
+
+..
+
+'So you're gonna sit here and wait until I know I can trust you to not go spilling secrets. Got it?
+
+He rips the duct tape off my mouth.
+
+'What happens if I kill you?'
+
+'You lose valuable money. And connections.'
+
+'What if I have enough?'
+
+'You don't. Trust me.'
+
+Funnily enough, I believe him, cos he does have connections that I could use. Very wisely.
+
+'I'll give you time to think. I'll come back when I think you won't start talking.'
+
+And he walks off.
+
+And I'm stuck here.
+
+Wherever I am...
