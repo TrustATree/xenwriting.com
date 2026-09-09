@@ -4,7 +4,7 @@ Converted to human years by █ █████
 Not all stories have a happy ending… I'm sorry ██████.
 Attention drones in the area. Recent news has come out about logs that we’ve found about a drone in the area that may jeopardize everything we’ve done to control earth. You are now on highest alert for drone #132. Last known location was in zone 12 building 35 at ground level with a █████. You are to EMP this drone on sight and bring it to the Prism for ███████ ██████████████.
 
-The Trial is run purely by AI to determine a █████’s fate, like a court case, except the human has nothing to defend themselves and isn’t even allowed to speak. It’s purely up to chance if they survive or not.
+The Trial is run purely by AI to determine a █████’s fate, like a court case, except the █████ has nothing to defend themselves and isn’t even allowed to speak. It’s purely up to chance if they survive or not.
 I’m not exactly the most innocent figure, but it’s not my fault. I’m a worker drone. I’ve been bugged and chipped countless times to ensure I stay in line and don’t try to help any living things escape. If I detect ████ anywhere, they take control and exterminate it before I can preserve it.
 I got lucky being an older model, it means they can’t bug me too much or I’ll crash. It also means I’m fit for one job and one job only; protect the perimeter. If any unauthorised figures enter, they don’t get past me. I’m also lucky that my charging station is out in the wastelands, away from all the orderly chaos. It means I have the highest chance of finding ████, and possibly saving earth from this madness.
 And I would write more, but unfortunately I only had about 12.32 seconds to write this before my shift starts again. God I hate work. 
