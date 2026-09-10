@@ -49,4 +49,7 @@ Stories are accessible in the top right, by hovering over "Stories by TreeXen" a
 **Fun fact:** <span>{{ fact }}</span>
 :::
 <button style="background-color: #5050AF; padding-left: 5px; padding-right: 5px; border-radius:5px;" onclick="window.location.href='snake.html'">Snake Game</button>
+
 <button style="background-color: #5050AF; padding-left: 5px; padding-right: 5px; border-radius:5px;" onclick="window.location.href='minesweeper.html'">Minesweeper</button>
+
+<button style="background-color: #5050AF; padding-left: 5px; padding-right: 5px; border-radius:5px;" onclick="window.location.href='tetris.html'">Tetris</button>
