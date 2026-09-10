@@ -668,11 +668,9 @@ All the screaming, yelling, gunshots...
 
 She might relive it in 3 days.
 
-The date is september 15th, 2025. 10 years ago on september 18th, Xen's father was arrested and sent to prison, convicted of attempted murder on his wife. Just minutes before his arrest, he attempted the same on Xen, escaping the officer's grasp and aiming his shotgun directly at her forehead.
+The date is september 15th, 2025. 10 years ago on september 18th, Xen's father was arrested and sent to prison, convicted of attempted murder on his wife. Just minutes before his arrest, he attempted the same on Xen, escaping the officer's grasp and aiming his shotgun directly at her forehead. Xen was a split second from death.
 
-Xen was a split second from death.
-
-Her father was charged with 10 years of prison.
+Her father was sentenced to life in prison, but slowly lowered that sentence to 10 years due to good behaviour.
 
 He gets out in 3 days.
 
@@ -681,3 +679,43 @@ Xen hasn't moved houses that entire time.
 But the question is, would he find Xen?
 
 And would history repeat itself?
+
+## Episode 10
+
+Work that day was quiet.
+
+Nothing interesting happened the entire 4 hours she worked.
+
+Yet that silence was loud.
+
+Every little thing made Xen flinch. At one point she even screamed. Several customers turned to look at her. The embarrassment was immense.
+
+She clocked out 2 hours early and went home. She didn't answer any calls, texts or anything. Someone knocked on her door but she didn't answer.
+
+She could feel her own heart beat as she sat. She clutched her forehead as her eyes lost focus. She lies down, palms sweaty, unable to swallow. She glances around, looking for something.
+
+She finds it.
+
+She stands up and stumbles towards it.
+
+She grabs it.
+
+She presses it against her skin. It's sharp blade threatening to cut into her.
+
+Her breath quickens as she hesitates for a second that feels like an hour.
+
+Her hand slips as it cuts into her, and falls to the ground, blade first into her foot.
+
+She doesn't scream. She hisses in pain as a single drop of blood hits the floor.
+
+She pauses.
+
+She walks to the kitchen.
+
+Grabs a bandaid, wraps her hand and foot separately.
+
+Picks up the knife, cleans it, and puts it on the bench.
+
+She goes to bed.
+
+Two days remain.
