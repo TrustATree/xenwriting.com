@@ -347,8 +347,60 @@ Funnily enough, I believe him, cos he does have connections that I could use. Ve
 
 'I'll give you time to think. I'll come back when I think you won't start talking.'
 
-And he walks off.
+And he walks away.
 
 And I'm stuck here.
 
-Wherever I am...
+In the sewers...
+
+## Episode 7
+
+He returns, and I'm hungry. Not starving or anything, it's only been 4 hours 37 minutes and however many seconds. I lost track when he was opening the storm drain. Despite all that, I stayed patient the entire time.
+
+He unties me, lets a ladder down and offers me to climb out first. I decline and climb out after him.
+
+Once out, I turn away and leave. No one says a word. I head straight to my apartment building. But I don't go to my apartment, I head to the roof. I've already decided that my apartment is now unsafe to spend more than an hour at. Because whenever I do, someone from the mafia shows up and I have to get involved in some bullshit.
+
+I sit down, intending to spend a while there.
+
+/2:57 AM/
+
+I spot a van in the distance. And two men holding bags of something, climbing into the van. Another man standing close by counting large bank notes.
+
+I calmly head back to my apartment.
+
+Chris shrieks in horror as I open the door.
+
+'Y-your face... what happened..?' He stammers.
+
+'I don't think you want to know after just getting absolutely mortified by me opening the door.'
+
+'You're right... s-sorry..'
+
+'Don't be sorry, you didn't do anything. All I'll say is I got involved in some arse fuckery with the guys that sent you here.'
+
+He doesn't say another word.
+
+I grab my sniper rifle and open the window. I look around for a little bit until I spot the van again. Same colour, same licence plate, same driver.
+
+I aim...
+
+And shoot.
+
+The front of the van immediately starts leaking smoke. The driver notices and slams on the brakes, making the whole van tip forward violently. I shoot it again which bursts something in the front of the van into flames. The two immediately evacuate the van and scan the area. I shut my window.
+
+They have absolutely no idea.
+
+Chris is too stunned to speak.
+
+I unload the sniper, toss it back in the closet and head to bed.
+
+'Chris.'
+
+'H-hey.'
+
+'Come here'
+
+He arrives in my room quickly. I toss him $3 thousand
+
+'Find a hotel room. Don't come back for the night. I just put myself in danger.'
