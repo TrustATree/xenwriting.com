@@ -44,7 +44,7 @@ onMounted(() => {
 
 Welcome to [XenWriting.com](https://xenwriting.com)! Enjoy your stay!
 
-Stories are accessible in the top right, by hovering over "Stories by TreeXen" and selecting the story you wish to read, or on mobile, by clicking the hamburger icon (☰), opening the dropdown for "Stories by TreeXen" and selecting the story you wish to read.
+Stories are accessible in the top right, by hovering over "Stories by TreeXen" and selecting the story you wish to read, or on mobile, by clicking the hamburger icon (☰), opening the dropdown for "Stories by TreeXen" and selecting the story you wish to read. Please note that this site has moderate use of profanity, and viewer's discretion is advised.
 ::: tip
 **Fun fact:** <span>{{ fact }}</span>
 :::
