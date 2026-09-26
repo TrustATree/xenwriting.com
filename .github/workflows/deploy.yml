@@ -38,6 +38,9 @@ jobs:
       - name: Build with VitePress
         run: npx vitepress build storys
 
+      - name: Index with Pagefind
+        run: npx pagefind --site storys/.vitepress/dist
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

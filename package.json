@@ -1,7 +1,7 @@
 {
   "name": "xenwriting.com",
   "version": "1.0.0",
-  "description": "If you are going to contribuite, ***DO NOT USE THE MAIN BRANCH***, For some reason that I can't figure out, GitHub pages doesn't like the main branch",
+  "description": "Source Code for the xenwriting.com website, based on VitePress.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +11,8 @@
     "url": "git+https://github.com/TrustATree/xenwriting.com.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "TreeXen/TrustATree, Charl1e39, and GitHub contributors",
+  "license": "Custom, Read LICENSE.md",
   "type": "commonjs",
   "bugs": {
     "url": "https://github.com/TrustATree/xenwriting.com/issues"
@@ -20,7 +20,8 @@
   "homepage": "https://github.com/TrustATree/xenwriting.com#readme",
   "devDependencies": {
     "markdown-it-container": "^4.0.0",
-    "vitepress": "^1.6.4"
+    "vitepress": "^1.6.4",
+    "pagefind": "^1.4.0"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^7.3.1",

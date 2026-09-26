@@ -24,8 +24,7 @@ export default defineConfig({
           { text: 'A Drone With Emotions', link: '/adwe' },
           { text: 'Mark It With A Slit', link: '/miwas' },
           { text: 'Sentimental', link: '/sentimental' },
-          { text: 'No One Believes Me', link: '/nobm' },
-          { text: 'dont mind me', link: '/test-file' }
+          { text: 'No One Believes Me', link: '/nobm' }
         ]
       }
     ],
@@ -38,8 +37,7 @@ export default defineConfig({
           { text: 'A Drone With Emotions', link: '/adwe' },
           { text: 'Mark It With A Slit', link: '/miwas' },
           { text: 'Sentimental', link: '/sentimental' },
-          { text: 'No One Believes Me', link: '/nobm' },
-          { text: 'dont mind me', link: '/test-file' }
+          { text: 'No One Believes Me', link: '/nobm' }
         ]
       }
     ],
