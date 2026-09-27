@@ -10,6 +10,7 @@ export default defineConfig({
     hostname: 'https://xenwriting.com'
   },
   themeConfig: {
+    search: { provider: 'local' },
     socialLinks: [
       { icon: 'discord', link: 'https://discord.com/invite/et2Yyyn62p' },
       { icon: 'github', link: 'https://github.com/TrustATree/xenwriting.com' }
