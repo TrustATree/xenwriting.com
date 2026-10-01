@@ -11,8 +11,8 @@
     "url": "git+https://github.com/TrustATree/xenwriting.com.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "TreeXen/TrustATree, Charl1e39, and GitHub contributors",
+  "license": "Custom, read LICENSE.md",
   "type": "commonjs",
   "bugs": {
     "url": "https://github.com/TrustATree/xenwriting.com/issues"
