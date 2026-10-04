@@ -26,7 +26,7 @@ export default defineConfig({
           { text: 'Mark It With A Slit', link: '/miwas' },
           { text: 'Sentimental', link: '/sentimental' },
           { text: 'No One Believes Me', link: '/nobm' },
-          { text: 'dont mind me', link: '/test-file' }
+          { text: 'Industrialism', link: '/Industrialism' }
         ]
       }
     ],
@@ -40,7 +40,7 @@ export default defineConfig({
           { text: 'Mark It With A Slit', link: '/miwas' },
           { text: 'Sentimental', link: '/sentimental' },
           { text: 'No One Believes Me', link: '/nobm' },
-          { text: 'dont mind me', link: '/test-file' }
+          { text: 'Industrialism', link: '/Industrialism' }
         ]
       }
     ],
