@@ -126,3 +126,200 @@ He looked at his hands, scarred and cracked and stained with machine oil that wo
 "Show me how," he said.
 
 "Good lad," said Orvyn. "Lesson one tomorrow. Bring an empty stomach and a lot of patience. You'll need both."
+
+## EPISODE 3
+
+Orvyn's home was called the Hollow, and it was a tree.
+
+Not a house built in a tree. A tree that was a house. A colossal, ancient oak, wide as a bus depot, with windows set into the bark, a chimney growing out of a branch, and a front door that opened by the trunk politely shrugging. Inside it smelled of woodsmoke and old books and something faintly like toast. Shelves wound up the inside of the trunk in a spiral, stuffed with scrolls, jars of unidentifiable shit, and a stuffed owl that Callum was fairly sure blinked at him.
+
+"Sit," said Orvyn. "Eat. We've got a lot to get through, and I need you to actually listen, because I've lost three apprentices to not listening, and one of them to a very hungry badger."
+
+Callum sat. A bowl of stew arrived in front of him on its own, carried by a little cluster of leaves. He decided not to ask.
+
+"Right. The basics." Orvyn lowered himself into a chair that rearranged its roots to accommodate his arse. "You've got the classes. Natural is yours: trees, plants, flowers, crops, anything with roots and a will to grow. Ten tiers. One spell each. We learn them in order, bottom to top, no skipping. Each one is built on the last, the way you can't build a roof before the walls."
+
+"Tier one's the easiest?"
+
+"Tier one is the easiest, and it's called Minor Growth. Tier ten is called Jungle Gym, and if I'm being honest, if you ever learn it, I'll start giving two shits." Orvyn waved a hand. "Every spell is one of four types. Attack, which can kill. Defence, which blocks. Support, which amplifies, tricks, distracts, or is just for fucking around. And Utility, which is everything else, mostly the useful stuff. Lower tiers are mostly Utility. The big violent ones live up the top."
+
+"And I just, what, wave my hands?"
+
+"You feel," said Orvyn, with the profound frustration of a man who'd said this to a hundred idiots. "That's the whole bloody secret. Magic isn't forced. You don't muscle it out of the world. You ask. You ask the plant if it wants to grow, and if you ask nicely and mean it, it'll say yes."
+
+Callum put down his spoon. "That's it?"
+
+"That's it."
+
+"That's the dumbest fucking thing I've ever heard."
+
+"And yet," said Orvyn, delighted, "here we both are."
+
+* * *
+
+The first lesson took place in the Hollow's back garden, which was less a garden and more a small, cheerful jungle, with a single bare patch of dirt in the middle, in which Orvyn planted a bean.
+
+"Minor Growth," he said. "Push a seed forward in time. Not far. A sprout, a sapling, a bit of green. Show it you want it to live."
+
+Callum crouched over the bean. He narrowed his eyes. He clenched every muscle in his body, the way he did when he was feeding a particularly heavy steel sheet into the press, and thought, as loudly as he possibly could: GROW.
+
+The bean did nothing.
+
+"Grow," said Callum, out loud.
+
+Nothing.
+
+"Grow, you little shit."
+
+"Don't swear at it," said Orvyn. "It's a bean. It's frightened of you."
+
+An hour later, Callum had sweated through his shirt, developed a headache that felt like a drill bit, and had achieved precisely zero growth. The bean sat in its little dirt crater, as inert as a rock. Orvyn watched him from a hammock, smoking a pipe that smelled of mint.
+
+"You're doing it wrong," he said.
+
+"No shit, Sherlock."
+
+"No, I mean you're doing it specifically wrong, in a way I can see from here. You're pushing. You're pushing like it's a machine. You've got that look, that grim, squinty look like you're trying to shove a bloody boulder up a hill."
+
+"That's because I spend twelve hours a day shoving boulders up hills," said Callum. "That's literally how I work."
+
+"Aye, well, it's not how this works. You can't force a living thing, lad. You try to force it and it'll just curl up and die out of spite."
+
+Callum glared at the bean. The bean, to its credit, did not look particularly intimidated.
+
+He tried again. And again. And at hour three, deeply sunburnt and in a foul mood, he sat down in the dirt with a thump and let his head fall into his hands.
+
+"I'm shit at this," he said. "I'm shit at everything. Can't even make a fucking bean do what it's meant to do. Can't make rent. Can't make a life. I'm a twenty-nine-year-old man who can't even grow a bean."
+
+Orvyn said nothing. After a while, the old man swung his legs out of the hammock and came and sat beside him in the dirt, groaning at the state of his knees.
+
+"My first apprentice," said Orvyn, "was a lass named Wren. She was the cleverest person I ever met. She could recite every tier of every class from memory. She took six months to grow her first sprout. Know why?"
+
+"She was thick?"
+
+"She was trying too hard. She was so scared of getting it wrong that she never actually let herself want it. Magic isn't a test, lad. It's a conversation. And you're shouting."
+
+Callum was quiet for a long time. A breeze moved through the garden, carrying the smell of mint and green things and rain. Beside the bean, a tiny blue flower nodded its head at him.
+
+He thought about his nan.
+
+He thought about her hands, wrinkled and brown and tough as old leather, patting the dirt around a tomato seedling. She never pushed. She never squinted. She just knelt there and hummed to it, some old song with half the words missing, and the seedlings had thrived. Everyone in the street used to say she had a green thumb. He'd always thought it was a joke.
+
+He didn't try to force anything this time. He just put his hand flat on the dirt next to the bean, and, feeling like a tit, he hummed. It was the same half-remembered song, tuneless and a bit flat.
+
+"Come on, mate," he said, quietly. "You don't have to. But I'd really like it if you did."
+
+Something warm moved up through his palm.
+
+It wasn't dramatic. It was like the feeling of a cat deciding to sit on your lap. A little soft push, a little give, a sense of something small and stubborn waking up and stretching out. The dirt shifted. A crack appeared in the bean's skin. A pale, curled shoot nosed out of it, uncoiled, split into two tiny, perfect green leaves, and stood up.
+Callum stared at it. His eyes burned.
+
+"Oh," he said, in a very small voice. "Oh, you beautiful little bastard."
+
+Orvyn grinned into his beard. "There you are. First spell, Minor Growth. Tier one. And you've been at it three hours, which is about average, so don't get a big head."
+Callum was crying. He wasn't sure when it had started. He wiped his face on his filthy sleeve and laughed, a wet, ugly, ridiculous sound, and the bean sprout waved at him in the breeze, and it was possibly the happiest he had ever been in his life.
+
+* * *
+
+They ate dinner. Callum, who could not stop looking at his bean, ate nothing. At some point in the evening, Orvyn dragged a battered leather book out from under a pile of scrolls and said, with an air of solemn weariness, "Right. Before we move on, I've got to give you the Talk."
+
+"I'm twenty-nine."
+
+"Not that talk. The other talk. About Mechanical."
+
+Callum frowned. "That's not a class.."
+
+"Yes it absolutely is!" Orvyn quietly hissed, as if convinced someone was watching, "Mechanical magic is the only forbidden art. Illegal across every kingdom in Eldrath. You do not touch it. You do not study it. You do not even talk about it in polite company. Making things move. Crushing. Twisting. Breaking. Fixing. Melting. Wizards who tried it went mad with power, so they say. Whole cities have burned."
+
+Callum blinked slowly.
+
+"Right," he said. "So. Making things move. Crushing things. Twisting. Breaking. Fixing."
+
+"Yes."
+
+"Mate, that's just a hydraulic press."
+
+Orvyn stopped. "I beg your pardon?"
+
+"That's just, like. A machine. That's machines." Callum started counting on his fingers. "Making things move, that's an engine. Crushing, that's a press. Twisting is a spanner. Breaking is a hammer. Fixing's a toolbox. Melting's a furnace, we've got three of them out the back. Dennis from the floor could do all of those, and Dennis is a fucking idiot."
+
+"You... you've practised the forbidden art?"
+
+"I do it for twelve hours a day for nineteen-forty an hour!"
+
+Orvyn went very pale. "Gods preserve us. You're an adept."
+
+"It's not magic! It's not even a skill! It's just bullshit! It's a lever and some oil! There's no mana in it, there's no feeling, you just push a button and a thing happens! It's the least magical thing that's ever existed. I've seen a vending machine do more than half of that."
+
+"A vending machine," whispered Orvyn, with deep horror.
+
+"It gives you a Twix when you give it two dollars. Is that Mechanical?"
+
+"That is absolutely Mechanical! It moves a thing! It dispenses a Twix by force of will!"
+
+"It's a spring!"
+
+They stared at each other. In the corner, the stuffed owl very slowly turned its head away, like it could not be associated with this conversation.
+
+"I'm going to need to lie down," Orvyn said eventually. "Whole centuries of dogma. A man from a smog-pit explains the forbidden art with a vending machine."
+
+"I'm just saying," said Callum, who was enjoying himself for the first time in about five years, "you lot can relax. It's not magic. It's physics. It's just really, really boring."
+
+* * *
+
+The next morning, they started on Tier Two.
+
+"Pollen Swarm," said Orvyn, who was still looking at Callum like he might at any moment pull a crowbar out of his coat. "Attack spell. The first one you'll learn that can actually put somebody on their back. It's nasty."
+
+He stood Callum in front of a battered wooden scarecrow at the far end of the garden, dressed in a tragic little hat. "A cloud of pollen, concentrated and animated, and sent where you want it. In the face, ideally. Blinds, chokes, makes the eyes stream and the lungs seize. If the target's weak, or allergic, or a prat, they'll go down. If they're strong, you've at least ruined their afternoon."
+
+"Sounds like hay fever," said Callum.
+
+"Hay fever is the mild version. Go on."
+
+Callum had learned a lesson. He didn't force it, and he didn't squint. He closed his eyes, put his palm out toward the scarecrow, and reached for that same warm feeling, that same sense of asking. Only this time, instead of asking a seed to grow, he asked a whole garden full of flowers if he could borrow a little of their dust.
+Oh, said the flowers. Of course. Take what you need.
+
+The air around him thickened. Yellow powder rose off every flower in the garden, a shimmering gold cloud that swirled around his raised hand like a living thing. It was beautiful. It was incredible. He felt a rush of power, a kid on his first rollercoaster, and he grinned and threw out his hand.
+
+"Pollen Swarm!"
+
+The cloud launched. It shot across the garden like a golden bullet, hit the scarecrow dead in the face, and detonated. The scarecrow vanished in a pillar of yellow dust. Callum whooped, punched the air, and spun triumphantly round to Orvyn.
+
+"DID YOU SEE THAT? Did you see that?! That was fucking sick! That was..."
+
+He stopped.
+
+The wind had shifted.
+
+The cloud, finished with the scarecrow and utterly indifferent to its creator's feelings, was coming back. It rolled over the garden in a slow, golden tide, caught him full in the face, and Callum Reyes inhaled the entire spell.
+
+"Oh," he said. "Oh, no."
+
+The sneeze that followed rattled the leaves off a nearby tree. The second one knocked him over. By the fifth, his eyes had swollen to the size of golf balls, his nose was streaming like a burst pipe, and he was lying on his back in the flowerbed, wheezing like an asthmatic accordion while a small, concerned bee landed on his forehead.
+
+Orvyn, who had watched the whole thing with a stony, professional face, finally cracked. He sat down on a tree stump, put his face in his hands, and laughed until he coughed. He laughed until he cried. He laughed so hard that the owl, back inside the Hollow, was heard to hoot in alarm.
+
+"Hhhhh-ACHOO!" said Callum. "I hate you. I hate you so much. Fuck this. Fuck pollen."
+
+"Lesson one of attack magic," wheezed Orvyn, wiping his eyes. "Always check the wind."
+
+"You could've told me that!"
+
+"I could have," Orvyn agreed, unrepentant. "But where's the fun in that?"
+
+It took Callum three hours to stop sneezing, two days to stop looking like a boiled tomato, and a full week of practice before he could cast Pollen Swarm without ending up in a flowerbed. By the end of it, he could blast a cloud in a tight, precise jet, hold it in the air like a shimmering curtain, and, once, to Orvyn's loud and obvious jealousy, carve the shape of a very rude gesture into the air above the scarecrow's head.
+
+Two spells. Tier One and Tier Two. A bean sprout and a golden cloud of absolute violence.
+
+That night, as the sun went down behind the floating islands, Callum sat on the roots of the Hollow with a cup of tea in his hands and his nose still red and sore. Back home, in a smog-choked city he'd almost forgotten, he was due on shift in about ten minutes of real time.
+
+He thought about the factory. About the press, and the boom, and the nine hundred panels. About a vending machine, and the look on Orvyn's face.
+
+He started laughing again, so hard he spilled his tea.
+
+"What?" said Orvyn, from the doorway.
+
+"Nothing," said Callum, and wiped his eyes. "Nothing. Just thinking. It's just physics, mate. All of it. It's all just fucking physics."
+
+And for the first time, as he said it, he found himself wondering who it was that had decided that physics should be worth less than a pizza slice.
