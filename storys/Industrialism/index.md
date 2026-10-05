@@ -52,3 +52,77 @@ Then his pale, sharp eyes landed on Callum, who was still frozen against the bin
 
 "You ", said the wizard, pointing the pear. "Callum Reyes, is it? Excellent. You look like shit, lad. Come on. We've got work to do."
 
+EPISODE 2: Eldrath
+
+"I'm hallucinating," said Callum.
+
+"You're not."
+
+"I've been awake sixteen hours and my dinner was a squashed sandwich. I'm having a stroke."
+
+"Lad, you're not having a stroke." The wizard sat down on the skip bin like it was a throne and offered Callum the other half of the pear. "Orvyn Thistlewick, Archdruid of the Verdant Circle, two hundred and fourteen years old, and currently very much wishing he'd brought a better hat to this dump. You've got a pull in you. A latent affinity. You've been lighting up our instruments like a bloody lighthouse for a month."
+
+"A pull," Callum said flatly.
+
+"Magic, boy. You've got the knack. Most don't. You do."
+
+Callum looked at the flowers, then the glowing hole in the sky. Then he did the only reasonable thing a man in his financial position could do, and took the pear.
+It was the best thing he had ever eaten. It tasted like summer. He nearly cried right there in the yard.
+"Right," he said thickly. "I've got a shift in about four minutes."
+
+"Is your shift worth more than the secrets of the universe?"
+
+"It's worth nineteen-forty an hour, so, honestly? Kind of, yeah."
+
+Orvyn stared at him. "Gods, that's depressing. Come and have a look. Time runs slow on your side of the portal. You'll be back before Dennis finishes his next fart."
+Callum froze. "How do you know about Dennis?"
+
+"I've been watching your sad little life through a puddle for a month."
+
+* * *
+
+Callum stepped through the tear in the sky.
+
+And the world went green.
+
+He stood on a hillside of impossibly bright grass, and below him a valley unrolled, full of silver rivers and white towers, and above it, floating in open sky, were islands. Whole chunks of land with waterfalls pouring off their edges and dissolving into mist. Something enormous and pale glided between them, slow as a cloud, and when it sang, the sound rolled through Callum's chest like a bass note.
+
+"Sky whale," said Orvyn, sounding bored. "Welcome to Eldrath."
+
+The air was clean. His lungs were so shocked that he coughed for a full minute.
+
+They walked down into a town called Brindlemoor. Streets of flowing water, with people riding little curls of wave like a bus route. A woman cleaning a window by pointing at it, the grime lifting off in a bubble and floating away. A kid, no older than eight, lighting a candle with a snap of his fingers while his mother bollocked him for it. A sweaty bloke hauling a boulder across the market with a flick of the wrist, while everyone tutted at him for blocking the footpath.
+
+Magic wasn't a secret here. It was just Tuesday.
+
+"Seven classes," Orvyn said, steering him past stalls of glowing fruit and bottled lightning. "Aquatic, Infernal, Material, Chemical, Intelligent, Natural, and Mechanical. Ten tiers each, one spell per tier. The higher you go, the harder and meaner it gets."
+
+"And mine's what? Fire? Tell me it's fire."
+
+Orvyn sniffed him. Actually sniffed him. "Dirt," he decided. "Dirt and regret and, faintly, basil. You're Natural, lad. Plants."
+
+Callum thought of his nan's vegetable patch. He thought of the basil dying on his windowsill. Something in his chest went tight and warm and very strange.
+
+* * *
+
+They sat on a hilltop in the late sun, eating warm bread and drinking something fizzy from a bottle that kept refilling itself. A whole valley of people lived and laughed below them. Nobody was running. Nobody was timing anybody's toilet breaks. Somewhere a bard played a lute badly and no one told him to shut up.
+
+"How does anyone afford a place here?" Callum asked quietly.
+
+Orvyn frowned like the question made no sense. "You make things, or grow things, or fix things, and people give you things back. There's a bloke in the next valley who takes more than his fair share, and everyone thinks he's a prick."
+
+Callum thought about Voss Industrial Group and its forty-one million dollars. A lump formed in his throat, hot and ugly.
+
+"If you wanted," said Orvyn, watching the sunset instead of him, "I could teach you. Properly. Natural magic, as far as you can take it. You'd have something nobody in that grey bloody city can take off you."
+
+"I can't quit. I've got rent."
+
+"Who said anything about quitting?" Orvyn grinned like a man who'd been waiting for that exact question. "A month here is a handful of hours there. Learn all day, clock in all night, and Dennis never knows you've been gone. You just come out a wizard who also, unfortunately, has to do overtime."
+
+Callum looked at the sky whale drifting past the sun.
+
+He looked at his hands, scarred and cracked and stained with machine oil that would never quite wash out.
+
+"Show me how," he said.
+
+"Good lad," said Orvyn. "Lesson one tomorrow. Bring an empty stomach and a lot of patience. You'll need both."
