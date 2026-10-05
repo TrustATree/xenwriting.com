@@ -1,4 +1,4 @@
-EPISODE 1
+## EPISODE 1
 
 Callum Reyes woke up at 4:45 a.m. The way he did every morning: to a phone alarm in a bedroom the size of a shipping container, staring at a water stain on the ceiling that over two years had slowly grown into the shape of a cock and balls. His landlord called it "character." Callum called it a mould problem.
 
@@ -52,7 +52,7 @@ Then his pale, sharp eyes landed on Callum, who was still frozen against the bin
 
 "You ", said the wizard, pointing the pear. "Callum Reyes, is it? Excellent. You look like shit, lad. Come on. We've got work to do."
 
-EPISODE 2: Eldrath
+## EPISODE 2
 
 "I'm hallucinating," said Callum.
 
