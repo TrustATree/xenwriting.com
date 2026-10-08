@@ -323,3 +323,66 @@ He started laughing again, so hard he spilled his tea.
 "Nothing," said Callum, and wiped his eyes. "Nothing. Just thinking. It's just physics, mate. All of it. It's all just fucking physics."
 
 And for the first time, as he said it, he found himself wondering who it was that had decided that physics should be worth less than a pizza slice.
+
+## EPISODE 4
+
+By the second week, Callum had developed a routine. Wake up in a hammock inside a tree. Eat porridge made by a kettle that had opinions. Learn magic until his brain leaked out of his ears. Fall asleep in the dirt. Go home, work a twelve-hour shift pressing steel, and fall into bed for four hours of sleep with a head full of birdsong.
+
+It was the best and worst schedule of his life. He'd never been so tired, or so happy, and the two feelings had started to blur together.
+
+"Tier Three," said Orvyn one morning, sitting on a stump and holding a coil of what looked like a very thin green rope. "Minor Vines. Utility or Support. Not much use in a fight on its own, but handy as a shite in a sewer. Hauling, tying, climbing, tripping, holding. Anything you'd do with a rope, but alive."
+
+"Alive?"
+
+"Aye. That's the difference." He dropped the vine. It wriggled off his palm, quivered, then looped itself around his wrist and squeezed, affectionately, like a dog that wanted a belly rub. "They like you, if you're polite to them. You're asking a plant to move for you. It might say no."
+
+"What if it says no?"
+
+"Then you've learned something about yourself."
+
+* * *
+
+Minor Vines turned out to be a lot easier than Pollen Swarm, and a lot more annoying.
+
+Callum could summon the vines easily enough. The trouble was that the vines had personalities. He'd ask for one to reach a branch twelve feet up, and it would shoot up, grab the branch, and then refuse to let go, and he'd end up dangling from it like a sack of potatoes while Orvyn snickered. He asked for one to pass him a cup of tea, and it threw the tea in his face. He asked for two vines to tie his shoelaces, and they tied his shoelaces together, and he fell flat on his arse in front of the entire population of a village that had come to the Hollow to buy herbs.
+
+"It's not my fault!" he yelled, face-down in the gravel. "They've got attitude!"
+
+"They're plants, boy," said Orvyn. "They're like cats. They don't do what you tell them. They do what they were already thinking about doing, and you just agree with them."
+It took Callum a few days to figure out the trick, and when it finally clicked, it clicked in a way he really should have seen coming. He stopped asking the vines to do things for him. He started asking them what they'd like to do, and then helping.
+
+A vine wanted to climb? Fine. He pointed it at the tallest tree in the garden and let it go, and it shot up the trunk like a lizard, and pulled him up after it with one arm hooked round a loop. A vine wanted to knot itself in a tangle? He gave it a fence post and some peace, and it made a perfect, firm, tight net. A vine wanted to throw a tomato at Orvyn's head?
+
+That one he definitely approved of.
+
+"You little shit!" Orvyn roared, wiping red pulp out of his beard. The vine, delighted with itself, twirled in a tiny, smug spiral. "That is not what we practise this for!"
+"I didn't tell it to," said Callum, with a face of perfect, saintly innocence. "It's got a mind of its own."
+
+"And there's tomato in your hat."
+
+By the end of the week, Callum could summon and control four vines at once. He could swing between trees like a very badly dressed Tarzan. He could lasso a fast-moving boar, which was, in hindsight, the dumbest thing he'd ever done. And he'd started to realise that the most useful thing about Minor Vines wasn't the fighting. It was the building.
+On the last day of the week, Orvyn led him out to a bare patch of land at the edge of the forest, where an old stone footbridge had collapsed into a stream. "A village on the other side of that stream," he said, "can't get to the market. Hasn't been able to for a month. Nobody's had the time to fix it. Do you think you could?"
+
+Callum looked at the broken stones. He thought about the vines.
+
+Then he asked.
+
+The vines came out of the forest like a river flowing backwards. They wove through the gaps in the stone, over, under, and through, tightening, threading, interlocking, until a graceful, living lattice of green stretched over the stream. It wasn't pretty. It wobbled a bit at one end. But when Callum stepped onto it, it held.
+
+A woman on the far side, a farmer with a basket of eggs, stared at it. Then she walked across, slowly, like she was afraid it would vanish.
+
+"Thank you," she said, and her voice cracked. "Thank you, lad. My little girl's been sick, and I couldn't get her to the healer. Thank you."
+
+Callum didn't know what to say. He stood there with his mouth half open, and a vine curled gently round his shoulder like a hug.
+
+"Don't mention it," he managed. "Honestly. It's nothing."
+
+"It's not nothing," said Orvyn quietly, once she'd gone. "That's the thing about this world, lad. People forget that. It's never nothing."
+
+Callum thought about that on the walk home. About the farmer. About what it meant that a man could fix a bridge with a few vines, and not be paid, and not be timed, and not be told he was lucky to have a job.
+
+He thought about Dennis.
+
+He thought about the hours he'd poured into the press, and what he'd got in exchange, and the great, glowing Voss logo sitting on the roof like a crown.
+
+It was the first time he'd really let himself think it. And it was a hot, dark little seed, buried right at the bottom of his chest.
