@@ -59,6 +59,7 @@ I just left without bothering to ask the teacher.
 And that brings me to now. Sitting in the nurse's office waiting for something to happen.
 
 ---
+
 I have to sit in the office for a while. Some kid that got in before me is rambling about a sore throat and how she must get home or she'll die. She won't die, she's faking to go home. Meanwhile I'm staring a facehugger dead in the eye as it assesses me; it's next meal.
 
 Luckily enough, the moment it jumps at me is the moment the nurse decides to walk in.
