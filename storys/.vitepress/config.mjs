@@ -28,7 +28,12 @@ export default defineConfig({
           { text: 'No One Believes Me', link: '/nobm' },
           { text: 'Industrialism', link: '/Industrialism' },
           { text: 'Onaduruun', link: '/onaduruun' }
-          
+        ]
+      },
+      {
+        text: 'Stories by others',
+        items: [
+          { text: 'Onaduruun', link: '/onaduruun'}
         ]
       }
     ],
@@ -44,6 +49,12 @@ export default defineConfig({
           { text: 'No One Believes Me', link: '/nobm' },
           { text: 'Industrialism', link: '/Industrialism' },
           { text: 'Onaduruun', link: '/onaduruun' }
+        ]
+      },
+      {
+        text: 'Stories by others',
+        items: [
+          { text: 'Onaduruun', link: '/onaduruun'}
         ]
       }
     ],
