@@ -26,9 +26,13 @@ export default defineConfig({
           { text: 'Mark It With A Slit', link: '/miwas' },
           { text: 'Sentimental', link: '/sentimental' },
           { text: 'No One Believes Me', link: '/nobm' },
-          { text: 'Industrialism', link: '/Industrialism' },
-          { text: 'Onaduruun', link: '/onaduruun' }
-          
+          { text: 'Industrialism', link: '/Industrialism' }
+        ]
+      },
+      {
+        text: 'Stories by others',
+        items: [
+          { text: 'Onaduruun', link: '/onaduruun'}
         ]
       }
     ],
@@ -42,8 +46,13 @@ export default defineConfig({
           { text: 'Mark It With A Slit', link: '/miwas' },
           { text: 'Sentimental', link: '/sentimental' },
           { text: 'No One Believes Me', link: '/nobm' },
-          { text: 'Industrialism', link: '/Industrialism' },
-          { text: 'Onaduruun', link: '/onaduruun' }
+          { text: 'Industrialism', link: '/Industrialism' }
+        ]
+      },
+      {
+        text: 'Stories by others',
+        items: [
+          { text: 'Onaduruun', link: '/onaduruun'}
         ]
       }
     ],
