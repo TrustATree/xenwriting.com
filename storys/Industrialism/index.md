@@ -386,3 +386,101 @@ He thought about Dennis.
 He thought about the hours he'd poured into the press, and what he'd got in exchange, and the great, glowing Voss logo sitting on the roof like a crown.
 
 It was the first time he'd really let himself think it. And it was a hot, dark little seed, buried right at the bottom of his chest.
+
+## EPISODE 5
+
+"Tier Four," said Orvyn, with the sort of faint dread that suggested he'd done this before and regretted it. "Gnome."
+
+"Like a garden gnome?"
+
+"Like a gnome. A little bloke. You summon him out of the earth, and he does your chores."
+
+"What, like, fights for me?"
+
+"No."
+
+"Guards me?"
+
+"No."
+
+"Does he do anything cool?"
+
+"He does the washing up," said Orvyn. "Sweeps. Folds laundry. Makes a decent bed. Brings you tea. That's your lot. Utility, and not a scrap more. A gnome will not fight, will not defend you, will not so much as throw a rock. Try to make him, and he'll just stand there looking at you, deeply disappointed."
+
+Callum considered this. Then he considered the state of his flat, the mouldy bathroom, the mountain of dishes in the sink, the laundry he'd been putting off since the last Olympics.
+
+"Teach me this one immediately."
+
+* * *
+
+Gnome was a lot easier than the other spells, mostly because it needed so little from him. He knelt in the dirt, put his hand on the earth, and asked it, politely, if it had anyone spare.
+
+The ground burbled. A mound of soil swelled up between his fingers, heaved, cracked, and out of it climbed a very small, very wrinkled old man in a mushroom-coloured cap and a tiny leather apron. He was about two feet tall. He had a long, grey beard, a nose like a potato, and the dazed, sleepless eyes of someone who'd been dug up at an inconvenient hour.
+
+He looked at Callum. He looked at Orvyn. He looked at the sky. Then he picked up a broom that hadn't been there a second ago and began sweeping the garden path.
+
+"He's perfect," said Callum.
+
+"Don't get attached," warned Orvyn.
+
+"His name's Steve."
+
+"They don't have names, lad, they're a spell."
+
+"His name is Steve, and he's the new favourite child."
+
+Steve glanced up. He gave Callum a short, solemn, utterly professional nod, as though to say aye, that'll do, and went back to his sweeping.
+
+By the end of the day, Steve had washed every dish in the Hollow, polished Orvyn's boots, cleaned out the chimney, reorganised the spice rack alphabetically, and repaired a pair of Callum's trousers so well that Callum nearly proposed to him. When Orvyn tried to ask him to fetch a sword and chop some wood, Steve simply stared at him with deep, pitying exhaustion until Orvyn gave up.
+
+"Useless in a fight," Orvyn said, shaking his head.
+
+"Look at the dishes," said Callum.
+
+"Fine, fine, I'll give you the dishes."
+
+* * *
+
+Tier Five was Major Vines.
+
+"Defence or Support," said Orvyn the next morning, sounding a lot more serious. "The big sister of the spell you've already got. Minor Vines are for ropes and bridges. These, lad, are for grabbing and holding. Heavy, thick, strong enough to stop a charging horse, and they do have a use in a fight."
+
+He took Callum out into a clearing and showed him. When Orvyn raised his staff, the entire forest floor moved. Great, thick, muscular vines the size of tree trunks tore up out of the earth, lashed through the air, and wrapped around a boulder the size of a car. They squeezed. The boulder cracked. The vines flexed again, and lifted it into the air like a toy.
+
+"Fuck," said Callum, deeply impressed.
+
+"Aye. Now you."
+
+It was not easy. Where Minor Vines were friendly and a bit thick, Major Vines were enormous, and they needed ten times as much of him: ten times the focus, ten times the trust, ten times the energy. His first attempt produced a single feeble, drooping vine, which flopped onto the grass like a dead eel. His second attempt made him throw up. His third made him pass out entirely, and he woke up in a hammock with Steve placing a cold flannel on his forehead.
+
+"Thanks, mate," Callum croaked.
+
+Steve nodded, and went back to polishing Orvyn's collection of rare mushrooms.
+
+Callum kept practising. Day after day, the vines got a little thicker, a little stronger, and a little more willing. He learned how to hold them. How to guide them without pushing. How to tell a vine what he wanted, and let it figure out how, and then trust it to know. It was the same lesson, again and again, wearing a different coat: you can't force a living thing. You can only work with it.
+
+On the sixth day, Orvyn set a test. He stood Callum in the middle of the clearing, then walked to the far side with a wicked little grin.
+
+"Hold me," he said.
+
+"What?"
+
+"I'm going to try to walk away from you. You're going to stop me. Use Major Vines. Don't hurt me, mind. I'm old and I bruise."
+
+Callum took a deep breath. He reached for the forest. He asked, the way you'd ask a friend for a big favour, and the forest said yes.
+
+The earth erupted. Three vines as thick as his thigh burst up out of the ground, lashed across the clearing, and wrapped around Orvyn from ankles to shoulders, hoisting the old wizard a foot off the ground, bearded and furious.
+
+"PUT ME DOWN."
+
+"No, I'm good," said Callum.
+
+"I SAID PUT ME DOWN, YOU CHEEKY LITTLE..."
+
+"You said hold you."
+
+"Gods damn it!" Orvyn flailed, then went still, with a long, resigned sigh, and began, to Callum's great surprise, to laugh. "Aye. Aye, that's it. That's the one. Tier Five, done. And in six days. I've had apprentices take a year."
+
+Callum let him down. Orvyn dusted off his robes, patted him roughly on the shoulder, and looked at him for a long moment with an expression Callum couldn't quite read.
+
+"You're good at this, lad," he said. "Gods help me. You're really good at this."
