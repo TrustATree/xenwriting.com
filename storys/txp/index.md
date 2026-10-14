@@ -719,3 +719,51 @@ Picks up the knife, cleans it, and puts it on the bench.
 She goes to bed.
 
 Two days remain.
+
+## Episode 11
+
+The man answered the door, looked around, and looked down at Xen. He smiled.
+
+'Your house looks like a cafe,'
+
+He smiled wider, chuckled, and let her in.
+
+The man looked 16 at most. He had long, flowy blonde hair and a light moustache. He wore a white shirt branded 'SLAZENGER' on the front. Energy drink in one hand, doorknob in the other.
+
+'Welcome to your new home, kid.'
+
+'Thank you.'
+
+The man was Xen's new father.
+
+Over the next 11 years, they shared memories together. She learned to skate by the age of 11 from his weekly outings to the skate park. They got along so well in fact that she started adopting his personality as her own. This helped them truly connect, not only as father-daughter, but as if they were twins.
+
+* * *
+
+One fateful day out, he was teaching Xen how to kickflip, when they were confronted by a man in a ski mask.
+
+'Ay fish man, this your kid?'
+
+'Yeah, she's mine,' he held Xen close.
+
+'How come I ain't seen her 'round before?'
+
+'That's... none of your concern.'
+
+Xen looked uncomfortable.
+
+'Aight fish man, let's talk for a sec. Come here.'
+
+He looked down at Xen and whispered, 'Whatever you do, do not follow me. Go home and stay home.'
+
+Xen skated home without hesitation, knowing better than to be the hero.
+
+* * *
+
+An hour later, he returned. Slightly bruised and breathing heavily. Xen looked uncomfortable, he looked tired. But both were relieved to see each other again.
+
+He locked the door.
+
+No words were passed that night, yet the silence was loud.
+
+That was the first night Xen cried herself to sleep.
