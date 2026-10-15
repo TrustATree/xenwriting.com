@@ -32,7 +32,9 @@ export default defineConfig({
       {
         text: 'Stories by others',
         items: [
-          { text: 'Onaduruun', link: '/onaduruun'}
+          { text: 'Onaduruun', link: '/onaduruun'},
+          { text: 'Minecraft: The Quest To Revive _____', link: '/The Quest To Revive'}
+
         ]
       }
     ],
@@ -52,7 +54,8 @@ export default defineConfig({
       {
         text: 'Stories by others',
         items: [
-          { text: 'Onaduruun', link: '/onaduruun'}
+          { text: 'Onaduruun', link: '/onaduruun'},
+          { text: 'Minecraft: The Quest To Revive _____', link: '/The Quest To Revive'}
         ]
       }
     ],
