@@ -153,7 +153,7 @@ Suddenly, the arena filled with a ghostly image of █████████�
 
 His voice echoed through the chamber.
 
-"You think you can defeat me? I have a pickaxe, and I'll put it to good use."
+"Do you think you're enough to kill me? Even unarmed, with iron armor, do you really think you can take me?! ... I have a pickaxe, and I'll put it through your teeth!" 
 
 The vision faded.
 
