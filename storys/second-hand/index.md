@@ -401,6 +401,54 @@ I unload the sniper, toss it back in the closet and head to bed.
 
 'Come here'
 
-He arrives in my room quickly. I toss him $3 thousand
+He arrives in my room quickly. I toss him $3,000
 
 'Find a hotel room. Don't come back for the night. I just put myself in danger.'
+
+## Episode 8
+
+Something's knocking on the door. I don't know what it is, why it's here or how many are there.
+
+But it's persistent.
+
+I grab whatever gun is next to me and aim at the door.
+
+..
+
+The entire wall implodes.
+
+I spray a magazine of something into the cloud of dust that shoots up, killing whatever was there.
+
+Once the dust settles, I get up to check what it was.
+
+Two men I don't recognise are lying in uncomfortable positions. Gunshot wounds in various places on their bodies, blood splattered on the wall behind them and the bodies are still warm. I search them for weapons; a C4, two pistols and a couple other things that I stash, not before disarming the bomb. I grab their wallets and count the money. Roughly $2,000 in large notes. I stash it in a duffel bag.
+
+---
+
+I don't see the bodies after they're taken by French Fry's goons. All I get is whatever was in their bags that they left at my door and an extra thousand for some reason, probably hush money.
+
+I head back to my apartment, stare at the missing wall, grab the bags and take them inside. I start packing things into boxes.
+
+It takes the entire next day to pack everything into boxes.
+
+I rent a van to move the boxes to a different place. This place is much nicer, with an actual house with 2 bedrooms, a designated kitchen, a bathroom, couple spare rooms and an actual backyard. There's not much of a front yard though, it's just the driveway and the footpath.
+
+It takes a good long while to haul boxes in but it's eventually worth it cos my stuff isn't outside anymore.
+
+I return the van.
+
+---
+
+Only on the next day do I hear a similar knocking on the door. I grab a rifle and aim it at the door.
+
+This time no wall implodes, instead a battering ram bursts into the door along with 4 large men. They can't arm themselves fast enough for me to methodically shoot them down.
+
+The same thing happens, I get a bit of money and move to a new location.
+
+Then it hits me.
+
+They're chasing me with more and more people.
+
+Chris is still alone, possibly at my old apartment. He has no idea what happened to me, where I went... or they might've found him... he could be dead.
+
+I start running, stuffing 2 pistols into my jacket.
