@@ -169,3 +169,226 @@ At the bottom of the crystal, tiny words had appeared.
 
 THE ████ IS NOT DEAD. HE IS WAITING.
 
+## Episode 3: Into the Crimson Depths 
+
+The second fragment lay deep within the Nether, beneath a fortress that did not appear on any known map.
+
+Getting there was difficult.
+
+Staying alive was worse.
+
+Ghasts attacked their bridge. Piglins demanded gold. A magma cube the size of a house nearly flattened Flint.
+
+And Ash accidentally angered an entire group of Piglins by opening a chest without offering them anything.
+
+"IT WAS AN EMPTY CHEST!" Ash shouted while running.
+
+"THEY DON'T CARE!" Flint yelled back.
+
+Eventually, they reached the fortress.
+
+At its centre stood a towering blackstone structure, suspended above a sea of lava. In its heart burned a crimson flame that produced no heat.
+
+The Heart of the Nether.
+
+But guarding it was a creature unlike anything they had seen.
+
+It looked like a wither made of ancient netherite, with six burning eyes and chains wrapped around its body.
+
+Iris stepped forward.
+
+"That's the Nether Sentinel. It was created to prevent anyone from using the revival ritual."
+
+The Sentinel opened its mouth.
+
+A voice like grinding stone filled the fortress.
+
+"THE DEAD MUST REMAIN BEYOND THE GATE."
+
+Jesse gripped his sword.
+
+"Then I suppose we'll have to disagree."
+
+The battle was brutal.
+
+Ash held the Sentinel's attention while Flint disabled the chains that powered its armour. Iris unleashed every spell she knew, but the creature kept regenerating.
+
+Jesse realised why.
+
+"It's feeding on the lava!"
+
+He looked at the fortress's enormous support columns.
+
+"Everyone, get to the exit!"
+
+Ash stared at him.
+
+"What's your plan?"
+
+"Structural engineering."
+
+"Oh, brilliant. We're all going to die."
+
+Jesse activated the TNT charges he'd planted during their approach.
+
+The columns exploded.
+
+The fortress tilted, its lava channels broke apart, and the Sentinel lost its power source. Ash struck its armour with his enchanted sword, shattering its crimson core.
+
+The creature fell.
+
+The Heart of the Nether floated above the lava, glowing like a miniature sun.
+
+Iris carefully sealed it inside a protective crystal.
+
+Two fragments secured.
+
+One remained.
+
+But as they prepared to leave, a whisper drifted from the broken Sentinel.
+
+"The crown was never meant to be found."
+
+Jesse frowned.
+
+"Why?"
+
+The creature's final eye flickered.
+
+"Because the one who wears it must choose between returning… and remaining a legend."
+
+Then it vanished.
+
+Nobody spoke for a while.
+
+For the first time, Jesse wondered whether reviving ███████████ was as simple as the book had promised.
+
+## Episode 4: The Crown of the Undying
+
+The third fragment was hidden in the End.
+
+Not in the End City.
+
+Not inside an End Ship.
+
+But beneath the island itself.
+
+Iris discovered an ancient portal buried beneath the central fountain. Unlike an ordinary End portal, this one required the Memory of the ████ and the Heart of the Nether to activate.
+
+When the fragments were placed into its frame, the ground opened.
+
+A staircase descended into darkness.
+
+At the bottom stood a throne made entirely of crying obsidian.
+
+And resting upon it was a golden crown.
+
+███████████'s crown.
+
+But the moment Flint approached, the chamber sealed itself.
+
+A figure emerged from the darkness.
+
+It wore ███████████'s familiar crown, a crimson cape, and armour that looked like it had been forged from the night sky.
+
+Ash raised his sword.
+
+"Another guardian?"
+
+The figure shook its head.
+
+"I am the Echo."
+
+Iris's eyes widened.
+
+"An Echo is a memory given form. It's been preserving ███████████'s final moments."
+
+The Echo turned towards Jesse.
+
+"Why do you seek the crown?"
+
+Jesse answered without hesitation.
+
+"To bring him back."
+
+"Why?"
+
+"Because the world lost someone important."
+
+The Echo tilted its head.
+
+"Is that enough?"
+
+Jesse paused.
+
+He hadn't expected the question.
+
+"We don't want to erase what happened," he said. "We just want the chance to see him again. To hear him laugh. To watch him fight. To let his story continue."
+
+The chamber fell silent.
+
+Then the Echo raised its sword.
+
+"THEN PROVE YOU UNDERSTAND WHAT YOU SEEK."
+
+The final trial began.
+
+Unlike the previous guardians, the Echo didn't attack with brute strength. It created illusions.
+
+Jesse saw himself failing to protect his friends.
+
+Ash saw every battle he had ever lost.
+
+Iris watched her spells unravel, powerless to help anyone.
+
+Flint found himself alone in an endless cave, with no escape.
+
+The illusions were designed to make them surrender.
+
+But they remembered why they had come.
+
+Ash stood beside Jesse.
+
+"Whatever happens, we face it together."
+
+Iris raised her staff.
+
+"Memories aren't weaknesses. They're what make us who we are."
+
+Flint gave a small grin.
+
+"And if this thing thinks a few spooky visions will stop me, it clearly hasn't met me."
+
+Together, they broke through the illusions.
+
+The Echo lowered its sword.
+
+For a moment, its face resembled ███████████'s.
+
+"You have not come seeking power. You have come seeking a friend."
+
+The throne split open.
+
+The Crown of the Undying floated towards Jesse.
+
+As he caught it, a deep rumble shook the End.
+
+A voice echoed from somewhere beyond the world.
+
+"Well, well, well. Look who finally made it."
+
+Jesse froze.
+
+"Did you hear that?"
+
+Ash nodded slowly.
+
+"Please tell me that was the crown."
+
+Iris stared at the three fragments.
+
+"No."
+
+She swallowed.
+
+"That was him."
