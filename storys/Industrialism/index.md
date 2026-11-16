@@ -484,3 +484,97 @@ The earth erupted. Three vines as thick as his thigh burst up out of the ground,
 Callum let him down. Orvyn dusted off his robes, patted him roughly on the shoulder, and looked at him for a long moment with an expression Callum couldn't quite read.
 
 "You're good at this, lad," he said. "Gods help me. You're really good at this."
+
+## EPISODE 6
+
+"Tier Six," said Orvyn. "Roots."
+
+They stood in the middle of the clearing at dawn. The mist was still curled around the trees, and the whole forest felt like it was holding its breath.
+
+"Defence," Orvyn went on. "The standard wall of every Natural wizard on the continent. You call roots up from the earth, thick and tangled, between you and whatever's trying to kill you. Reliable. Solid. It's the spell that'll save your arse."
+
+"Sounds ideal."
+
+"It has a catch." Orvyn held up three fingers. "Three attacks. That's it. Roots can take three hits before they die and crumble. The first hit will hurt them. The second will tear them. The third will finish them. And if there's a fourth, lad, you'd better be somewhere else."
+
+"So I've got three hits."
+
+"You've got three hits, and then you've got a very bad day."
+
+* * *
+
+The spell itself was easy to cast, which was, as it turned out, the problem.
+
+Callum knelt and put both hands on the earth. He asked. The earth rumbled, and from beneath his palms a tangle of gnarled, ancient roots surged upward, twisting and knotting around each other, and formed a dense, black, woody wall about eight feet wide and six feet tall.
+
+"Nicely done," said Orvyn. "Now, the real question is whether it holds."
+
+He stepped back and raised his staff.
+
+Callum had a very brief, very clear thought: oh, no.
+
+The first blast hit the wall like a battering ram. A stone the size of a bowling ball, fired from the end of Orvyn's staff with the force of a cannon, slammed into the roots, and the whole wall juddered. Splinters flew. A deep crack ran up the centre. Callum's arms shook from wrist to shoulder, and he gritted his teeth and held.
+
+"One!" called Orvyn.
+
+The second was a spear of ice. It punched halfway through the wall and stuck there, shuddering, as the roots groaned and tore around it. Callum felt it in his bones, like someone had ripped a handful of hair out of his skull.
+
+"Two!"
+
+"Okay, that's enough, that's plenty!"
+
+"Three!"
+
+The last was a flat, ugly bolt of green light, and it hit the wall like a sledgehammer. The roots shrieked. The barrier burst apart in a spray of splintered wood and flying earth, and the shockwave knocked Callum clean off his feet. He landed on his back in the dirt, wheezing, staring up at a pale morning sky.
+
+Orvyn leaned over him. "And four," he said cheerfully, and flicked a pebble at his forehead.
+
+"OW. You dickhead!"
+
+"That," said Orvyn, "is why you don't stand behind a dead wall."
+
+* * *
+
+They drilled it for ten days.
+
+Callum learned how to raise the roots faster, how to thicken them where the strike would land, and how to brace his body against the recoil. He learned to count the hits in his head, to feel a wall about to die, and to drop it just before it broke and raise a fresh one in the same breath.
+
+By the end, he could hold a dozen volleys in a row, with Steve watching from a safe distance in a tiny helmet that he refused to take off.
+
+On the last evening, Orvyn sat him down on the roots of the Hollow with two mugs of tea and a heavy, serious silence.
+
+"That's the end of it, for now," the old man said. "Six tiers. Minor Growth, Pollen Swarm, Minor Vines, Gnome, Major Vines, Roots. It's a start. A good one. You're ahead of nearly every apprentice I've taught."
+
+"I want to keep going."
+
+"Aye. You will. Not tonight." Orvyn looked into his tea. "There's something you should know before you go back."
+
+"What?"
+
+"It's not an accident that I found you." Orvyn's voice was low. "There's something wrong with your world. The portal wouldn't have opened for just any place. It opened for yours because there's a wound in it. Something has been eating away at the land there for a long, long time. The pull I felt wasn't just yours. It was the whole place, screaming."
+
+Callum thought about the smog. The dead trees. The river that ran the colour of a bruise.
+
+"I'm not asking you to save it," said Orvyn. "I'm asking you to look. Properly look, with new eyes. Then tell me what you see."
+
+* * *
+
+Callum stepped back through into the loading yard. By his phone, only a few hours had passed since his break.
+
+The first thing he noticed, standing in the loading yard, was the smell. Oil, rust, burnt metal, and something sour underneath. It hit him like a slap. He'd been breathing this for years, and he'd never really smelled it.
+
+The second thing he noticed was the river along the back fence. He'd walked past it a thousand times. It was brown and orange, shot through with a rainbow slick of oil, and it carried a thick grey foam towards the sea. A pipe, rusted and dripping, poked out of the bank right behind the plant. The word VOSS was stencilled on the side.
+
+The third thing he noticed was Steve's absence, which hurt more than it should have.
+
+The last thing he noticed was the great, glowing Voss logo on the roof of the factory. For the first time, Callum looked at it, really looked at it, and in the pit of his stomach something cold and hard turned over.
+
+"Callum!" called Dennis from the doorway, in his usual cheerful, hectoring tone. "There you are! Line Four's backing up, mate. Move it. Time is money, and money, as they say, is Voss!"
+
+Callum looked at him for a long moment.
+
+Then, slowly, he smiled. It wasn't a nice smile. It was the sort of smile Orvyn might have worn, right before a boulder went through a wall.
+
+"Yeah," he said. "Sure thing, Dennis."
+
+He walked into the plant. Behind him, in the cracks of the concrete, a single tiny blue flower raised its head.
