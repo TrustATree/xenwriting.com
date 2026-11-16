@@ -44,7 +44,7 @@ Someone calls my cell phone. I don't recognise the number. I let it go to voice 
 
 I don't laugh.
 
-'Remember to take your pills, and if you ever need something call this number instead of the old one. THank you!'
+'Remember to take your pills, and if you ever need something call this number instead of the old one. Thank you!'
 
 I turn on the television.
 
