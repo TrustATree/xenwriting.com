@@ -15,12 +15,15 @@ library.add(faMagnet)
 
 import Tab from './components/Tab.vue'
 import Tabs from './components/Tabs.vue'
+import FollowBar from './components/FollowBar.vue'
 
 /** @type {import('vitepress').Theme} */
 export default {
   extends: DefaultTheme,
   Layout: () => {
     return h(DefaultTheme.Layout, null, {
+      // follow button + "new chapter" note at the top of every story
+      'doc-before': () => h(FollowBar)
     })
   },
   enhanceApp({ app, router, siteData }) {

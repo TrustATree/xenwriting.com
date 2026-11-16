@@ -211,6 +211,15 @@ input[type="radio"] {
 }
 /* hacks-guide change end: disable transition on homepage navbar */
 
+/* xenwriting: colour of the follow button / "new chapter" status light */
+:root {
+  --xen-new-chapter: #2f7bf6;
+}
+
+.dark {
+  --xen-new-chapter: #5b9bff;
+}
+
 /* hacks-guide change start: add grid cards */
 .cards {
   display: grid;

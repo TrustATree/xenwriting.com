@@ -1,6 +1,7 @@
 import { fileURLToPath, URL } from 'node:url'
 import { defineConfig } from 'vitepress'
 import container from 'markdown-it-container'
+import { getStoryUpdates } from './story-updates.mjs'
 
 export default defineConfig({
   title: "TreeXen's Stories",
@@ -10,6 +11,8 @@ export default defineConfig({
     hostname: 'https://xenwriting.com'
   },
   themeConfig: {
+    // newest chapter commit per story folder, read from git history at build time
+    storyUpdates: getStoryUpdates(),
     search: { provider: 'local' },
     socialLinks: [
       { icon: 'discord', link: 'https://discord.com/invite/et2Yyyn62p' },
@@ -97,6 +100,12 @@ export default defineConfig({
           find: /^.*\/VPFooter\.vue$/,
           replacement: fileURLToPath(
             new URL('./theme/components/VPFooter.vue', import.meta.url)
+          )
+        },
+        {
+          find: /^.*\/VPSidebarItem\.vue$/,
+          replacement: fileURLToPath(
+            new URL('./theme/components/VPSidebarItem.vue', import.meta.url)
           )
         }
       ]
