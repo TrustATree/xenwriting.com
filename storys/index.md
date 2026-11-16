@@ -19,20 +19,22 @@ const funFacts = [
   "2/3 members of the team know all metro train models in Melbourne.",
   "Hat_nal accidentally face revealed once- but the video has been deleted.",
   "The FitnessGram Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues.",
-  "This website started out very shittily coded.",
-  "Xen doesn't know how to use punctuation.",
+  "This website started out very shittily coded. It still is.",
   ":3",
   "Hat_nal didn't respond when we asked him for his favourite colour, but Xen's is purple and Charlie's is orange",
   "I'm trapped in the fish dimension",
-  "Charlie gets increasingly mad at Hat_nal and Xen for changing anything in the source code",
   "Xen has never beaten Minecraft",
   "Hat_nal took 9 minutes to name 26 vocaloids he knows",
   "Hat_nal coded the snake button and nothing else",
-  "Hat_nal once got mad at Xen for taking too long to install Git.",
-  "Charlie doesn't know the difference between a joke and being annoying",
-  "5 of these fun facts are just the team being petty",
-  "Xen is planning to get into game design with a couple friends",
-  "Hat_nal randomly met Xen's childhood friend at school and they're still friends to this day!"
+  "Hat_nal randomly met Xen's childhood friend at school and they're still friends to this day!",
+  "Hat_nal + Xen = Yonkagor",
+  "Xen spent 3 hours straight trying to load into 'Skate.' and the game didn't even load",
+  "Charlie is in the top 14.9% of Beat Saber players, and Xen is in the top 28% of Osu players.",
+  "At the age of 13, Xen once passed as an adult to sneak into a very adult comedy show.",
+  "Xen is semi-ambidexterous.",
+  "Charlie and Hat_nal were in a group chat alone for over a month!",
+  "Xen has 100%'d all three 'Class of '09' games",
+  "There are currently 59 lines of code on this page"
 ]
 
 const fact = ref('')
