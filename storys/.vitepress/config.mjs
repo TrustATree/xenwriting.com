@@ -38,12 +38,7 @@ export default defineConfig({
         items: [
           { text: 'Onaduruun', link: '/onaduruun'},
           { text: 'Minecraft: The Quest To Revive _____', link: '/The Quest To Revive'}
-        ]
-      },
-      {
-        text: 'DnD oneshots',
-        items: [
-          { text: 'go fuck yourself', link: '/tmp'}
+
         ]
       }
     ],
@@ -66,12 +61,6 @@ export default defineConfig({
         items: [
           { text: 'Onaduruun', link: '/onaduruun'},
           { text: 'Minecraft: The Quest To Revive _____', link: '/The Quest To Revive'}
-        ]
-      },
-      {
-        text: 'DnD oneshots',
-        items: [
-          { text: 'go fuck yourself', link: '/tmp'}
         ]
       }
     ],
